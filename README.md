@@ -1,2 +1,2 @@
-# gdmt
-A repo to house a version of the Generic Dataset Metadata Template SKOS vocabulary
+# Ontology for Generic Dataset Metadata Template (GDMT)
+A repo to house a version of the Generic Dataset Metadata Template SKOS vocabulary.  The vocabulary in this repository is based on a vocabulary that was original created by John Graybeal and Nikola Vasiljevic and was originally available at http://vocab.fairdatacollective.org.  At the start of 2024 this domain name no longer resolves and the vocabulary is no longer available.
