@@ -21,12 +21,12 @@
 @prefix fdc: <http://vocab.fairdatacollective.org/gdmt/> .
 
 scheme: a skos:ConceptScheme;
-  dct:creator <http://orcid.org/0000-0002-9381-9693>, <http://orcid.org/0000-0003-4124-9040>;
+  dct:creator <http://orcid.org/0000-0002-9381-9693>, <http://orcid.org/0000-0003-4124-9040>, <https://orcid.org/0000-0001-8921-6593>;
   dct:description "Ontology containing the controlled terms and semantic properties used in the Generic Dataset Metadata Template."@en;
   dct:title "Ontology for Generic Dataset Metadata Template"@en;
   pav:createdOn "2020-12-01T00:00:00+01:00"@en;
-  pav:lastUpdatedOn "2022-06-25T21:00:00+02:00"@en;
-  pav:version "0.3.7"@en;
+  pav:lastUpdatedOn "2024-03-12T13:00:000-08:00"@en;
+  pav:version "1.0.0"@en;
   skos:hasTopConcept gdmt:ContributorRole, gdmt:DateType, gdmt:IdentifierScheme, gdmt:IdentifierType,
     gdmt:LicenseIdentifier, gdmt:LicenseIdentifierScheme, gdmt:MIMEType, gdmt:RelationType,
     gdmt:ResourceCreatorType, gdmt:ResourceTypeCategory;
