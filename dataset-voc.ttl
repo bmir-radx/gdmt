@@ -988,14 +988,17 @@ fdc:ContactPerson a skos:Concept;
   skos:broader fdc:Deprecated;
   rdfs:seeAlso gdmt:ContactPerson;
   owl:deprecated true .
+  
+
 
 gdmt:ContactPerson a skos:Concept;
   skos:exactMatch fdc:ContactPerson;
   skos:broader gdmt:ContributorRole;
-  skos:definition "Person with knowledge of how to access, troubleshoot, or otherwise field issues related to the resource"@en;
+  skos:narrower gdmt:ContactPI;
+  skos:definition "Person with knowledge of how to access, troubleshoot, or otherwise field issues related to the resource."@en;
   skos:inScheme scheme:;
   skos:prefLabel "Contact Person"@en .
-
+  
 fdc:Deprecated skos:narrower fdc:DataCollector .
 fdc:DataCollector a skos:Concept;
   skos:broader fdc:Deprecated;
@@ -1096,9 +1099,35 @@ fdc:ProjectLeader a skos:Concept;
 gdmt:ProjectLeader a skos:Concept;
   skos:exactMatch fdc:ProjectLeader;
   skos:broader gdmt:ContributorRole;
+  skos:narrower gdmt:PI;
   skos:definition "Person officially designated as head of project team or sub- project team instrumental in the work necessary to development of the resource."@en;
   skos:inScheme scheme:;
   skos:prefLabel "Project Leader"@en .
+
+gdmt:PI a skos:Concept;
+  skos:broader gdmt:ProjectLeader;
+  skos:narrower gdmt:DataPI;
+  skos:definition "Person who is a Principal Investigator for a project."@en;
+  skos:inScheme scheme:;
+  skos:prefLabel "PI"@en;
+  skos:altLabel "Principal Investigator".
+
+gdmt:DataPI a skos:Concept;
+  skos:broader gdmt:PI;
+  skos:definition "Person who is a Principal Investigator for a project and who is responsible for Data management in the project."@en;
+  skos:inScheme scheme:;
+  skos:prefLabel "Data PI"@en;
+  skos:altLabel "Data Principal Investigator".
+
+
+
+gdmt:ContactPI a skos:Concept;
+  skos:broader gdmt:PI;
+  skos:broader gdmt:ContactPerson;
+  skos:definition "Person who is a Principal Investigator for a project and who should be contacted for further information about the project."@en;
+  skos:inScheme scheme:;
+  skos:prefLabel "Contact PI"@en;
+  skos:altLabel "Contact Principal Investigator".
 
 fdc:Deprecated skos:narrower fdc:ProjectManager .
 fdc:ProjectManager a skos:Concept;
