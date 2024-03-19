@@ -5026,12 +5026,12 @@ gdmt:MIMEType a skos:Concept;
     gdmt:application-binhex, gdmt:application-binhex4, gdmt:application-book, gdmt:application-cdf,
     gdmt:application-clariscad, gdmt:application-commonground, gdmt:application-drafting,
     gdmt:application-dsptype, gdmt:application-dxf, gdmt:application-ecmascript, gdmt:application-envoy,
-    <http://vocab.fairdatacollective.org/gdmt/application-epub+zip>, gdmt:application-excel,
+    <https://w3id.org/gdmt/application-epub+zip>, gdmt:application-excel,
     gdmt:application-fractals, gdmt:application-freeloader, gdmt:application-futuresplash,
     gdmt:application-gnutar, gdmt:application-groupwise, gdmt:application-hlp, gdmt:application-hta,
     gdmt:application-i-deas, gdmt:application-iges, gdmt:application-inf, gdmt:application-java,
     gdmt:application-java-archive, gdmt:application-java-byte-code, gdmt:application-javascript,
-    gdmt:application-json, <http://vocab.fairdatacollective.org/gdmt/application-ld+json>,
+    gdmt:application-json, <https://w3id.org/gdmt/application-ld+json>,
     gdmt:application-lha, gdmt:application-lzx, gdmt:application-mac-binary, gdmt:application-mac-binhex,
     gdmt:application-mac-binhex40, gdmt:application-mac-compactpro, gdmt:application-macbinary,
     gdmt:application-marc, gdmt:application-mbedlet, gdmt:application-mcad, gdmt:application-mime,
@@ -5044,9 +5044,9 @@ gdmt:MIMEType a skos:Concept;
     gdmt:application-sea, gdmt:application-set, gdmt:application-sla, gdmt:application-smil,
     gdmt:application-solids, gdmt:application-sounder, gdmt:application-step, gdmt:application-streamingmedia,
     gdmt:application-toolbook, gdmt:application-vda, gdmt:application-vnd.amazon.ebook,
-    gdmt:application-vnd.android.package-archive, <http://vocab.fairdatacollective.org/gdmt/application-vnd.apple.installer+xml>,
+    gdmt:application-vnd.android.package-archive, <https://w3id.org/gdmt/application-vnd.apple.installer+xml>,
     gdmt:application-vnd.fdf, gdmt:application-vnd.hp-hpgl, gdmt:application-vnd.hp-pcl,
-    <http://vocab.fairdatacollective.org/gdmt/application-vnd.mozilla.xul+xml>, gdmt:application-vnd.ms-excel,
+    <https://w3id.org/gdmt/application-vnd.mozilla.xul+xml>, gdmt:application-vnd.ms-excel,
     gdmt:application-vnd.ms-fontobject, gdmt:application-vnd.ms-pki.certstore, gdmt:application-vnd.ms-pki.pko,
     gdmt:application-vnd.ms-pki.seccat, gdmt:application-vnd.ms-pki.stl, gdmt:application-vnd.ms-powerpoint,
     gdmt:application-vnd.ms-project, gdmt:application-vnd.nokia.configuration-message,
@@ -5060,7 +5060,7 @@ gdmt:MIMEType a skos:Concept;
     gdmt:application-wordperfect6.1, gdmt:application-x-123, gdmt:application-x-7z-compressed,
     gdmt:application-x-abiword, gdmt:application-x-aim, gdmt:application-x-authorware-bin,
     gdmt:application-x-authorware-map, gdmt:application-x-authorware-seg, gdmt:application-x-bcpio,
-    gdmt:application-x-binary, gdmt:application-x-binhex40, gdmt:application-x-bsh, <http://vocab.fairdatacollective.org/gdmt/application-x-bytecode.elisp(compiledelisp)>,
+    gdmt:application-x-binary, gdmt:application-x-binhex40, gdmt:application-x-bsh, <https://w3id.org/gdmt/application-x-bytecode.elisp(compiledelisp)>,
     gdmt:application-x-bytecode.python, gdmt:application-x-bzip, gdmt:application-x-bzip2,
     gdmt:application-x-cdf, gdmt:application-x-cdlink, gdmt:application-x-chat, gdmt:application-x-cmu-raster,
     gdmt:application-x-cocoa, gdmt:application-x-compactpro, gdmt:application-x-compress,
@@ -5098,7 +5098,7 @@ gdmt:MIMEType a skos:Concept;
     gdmt:application-x-vnd.ls-xpix, gdmt:application-x-vrml, gdmt:application-x-wais-source,
     gdmt:application-x-winhelp, gdmt:application-x-wintalk, gdmt:application-x-world,
     gdmt:application-x-wpwin, gdmt:application-x-wri, gdmt:application-x-x509-ca-cert,
-    gdmt:application-x-x509-user-cert, <http://vocab.fairdatacollective.org/gdmt/application-xhtml+xml>,
+    gdmt:application-x-x509-user-cert, <https://w3id.org/gdmt/application-xhtml+xml>,
     gdmt:application-xml, gdmt:application-zip, gdmt:audio-aac, gdmt:audio-aiff, gdmt:audio-basic,
     gdmt:audio-it, gdmt:audio-make, gdmt:audio-make.my.funk, gdmt:audio-mid, gdmt:audio-midi,
     gdmt:audio-mod, gdmt:audio-mp3, gdmt:audio-mpeg, gdmt:audio-nspaudio, gdmt:audio-ogg,
@@ -5108,11 +5108,11 @@ gdmt:MIMEType a skos:Concept;
     gdmt:audio-x-midi, gdmt:audio-x-mod, gdmt:audio-x-mpeg, gdmt:audio-x-mpequrl, gdmt:audio-x-nspaudio,
     gdmt:audio-x-pn-realaudio, gdmt:audio-x-pn-realaudio-plugin, gdmt:audio-x-psid, gdmt:audio-x-realaudio,
     gdmt:audio-x-twinvq, gdmt:audio-x-twinvq-plugin, gdmt:audio-x-vnd.audioexplosion.mjuicemediafile,
-    gdmt:audio-x-voc, gdmt:audio-x-wav, gdmt:audio-xm, gdmt:chemical-x-pdb, <http://vocab.fairdatacollective.org/gdmt/drawing-x-dwf(old)>,
+    gdmt:audio-x-voc, gdmt:audio-x-wav, gdmt:audio-xm, gdmt:chemical-x-pdb, <https://w3id.org/gdmt/drawing-x-dwf(old)>,
     gdmt:font-otf, gdmt:font-ttf, gdmt:font-woff, gdmt:font-woff2, gdmt:i-world-i-vrml,
     gdmt:image-bmp, gdmt:image-cmu-raster, gdmt:image-fif, gdmt:image-florian, gdmt:image-g3fax,
     gdmt:image-gif, gdmt:image-ief, gdmt:image-jpeg, gdmt:image-jutvision, gdmt:image-naplps,
-    gdmt:image-pict, gdmt:image-pjpeg, gdmt:image-png, <http://vocab.fairdatacollective.org/gdmt/image-svg+xml>,
+    gdmt:image-pict, gdmt:image-pjpeg, gdmt:image-png, <https://w3id.org/gdmt/image-svg+xml>,
     gdmt:image-tiff, gdmt:image-vasa, gdmt:image-vnd.djvu, gdmt:image-vnd.dwg, gdmt:image-vnd.fpx,
     gdmt:image-vnd.microsoft.icon, gdmt:image-vnd.net-fpx, gdmt:image-vnd.rn-realflash,
     gdmt:image-vnd.rn-realpix, gdmt:image-vnd.wap.wbmp, gdmt:image-vnd.xiff, gdmt:image-webp,
@@ -5242,7 +5242,7 @@ gdmt:application-envoy a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/envoy"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-epub+zip> a skos:Concept;
+<https://w3id.org/gdmt/application-epub+zip> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "application/epub+zip"@en .
@@ -5343,7 +5343,7 @@ gdmt:application-json a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/json"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-ld+json> a skos:Concept;
+<https://w3id.org/gdmt/application-ld+json> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "application/ld+json"@en .
@@ -5618,7 +5618,7 @@ gdmt:application-vnd.android.package-archive a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/vnd.android.package-archive"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-vnd.apple.installer+xml> a skos:Concept;
+<https://w3id.org/gdmt/application-vnd.apple.installer+xml> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "application/vnd.apple.installer+xml"@en .
@@ -5641,7 +5641,7 @@ gdmt:application-vnd.hp-pcl a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/vnd.hp-pcl"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-vnd.mozilla.xul+xml> a skos:Concept;
+<https://w3id.org/gdmt/application-vnd.mozilla.xul+xml> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "application/vnd.mozilla.xul+xml"@en .
@@ -5874,7 +5874,7 @@ gdmt:application-x-bsh a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/x-bsh"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-x-bytecode.elisp(compiledelisp)>
+<https://w3id.org/gdmt/application-x-bytecode.elisp(compiledelisp)>
   a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
@@ -6594,7 +6594,7 @@ gdmt:application-x-x509-user-cert a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "application/x-x509-user-cert"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/application-xhtml+xml> a skos:Concept;
+<https://w3id.org/gdmt/application-xhtml+xml> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "application/xhtml+xml"@en .
@@ -6875,7 +6875,7 @@ gdmt:chemical-x-pdb a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "chemical/x-pdb"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/drawing-x-dwf(old)> a skos:Concept;
+<https://w3id.org/gdmt/drawing-x-dwf(old)> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "drawing/x-dwf (old)"@en .
@@ -6988,7 +6988,7 @@ gdmt:image-png a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "image/png"@en .
 
-<http://vocab.fairdatacollective.org/gdmt/image-svg+xml> a skos:Concept;
+<https://w3id.org/gdmt/image-svg+xml> a skos:Concept;
   skos:broader gdmt:MIMEType;
   skos:inScheme scheme:;
   skos:prefLabel "image/svg+xml"@en .
