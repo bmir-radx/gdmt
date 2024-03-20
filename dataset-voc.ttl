@@ -2377,7 +2377,7 @@ fdc:0BSD a skos:Concept;
 gdmt:0BSD a skos:Concept;
   skos:exactMatch fdc:0BSD;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD Zero Clause License"@en;
+  skos:altLabel "BSD Zero Clause License"@en;
   skos:exactMatch <https://spdx.org/licenses/0BSD>;
   skos:inScheme scheme:;
   skos:prefLabel "0BSD"@en .
@@ -2391,7 +2391,7 @@ fdc:AAL a skos:Concept;
 gdmt:AAL a skos:Concept;
   skos:exactMatch fdc:AAL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Attribution Assurance License"@en;
+  skos:altLabel "Attribution Assurance License"@en;
   skos:exactMatch <https://spdx.org/licenses/AAL>;
   skos:inScheme scheme:;
   skos:prefLabel "AAL"@en .
@@ -2405,7 +2405,7 @@ fdc:Abstyles a skos:Concept;
 gdmt:Abstyles a skos:Concept;
   skos:exactMatch fdc:Abstyles;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Abstyles License"@en;
+  skos:altLabel "Abstyles License"@en;
   skos:exactMatch <https://spdx.org/licenses/Abstyles>;
   skos:inScheme scheme:;
   skos:prefLabel "Abstyles"@en .
@@ -2419,7 +2419,7 @@ fdc:Adobe2006 a skos:Concept;
 gdmt:Adobe2006 a skos:Concept;
   skos:exactMatch fdc:Adobe2006;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Adobe Systems Incorporated Source Code License Agreement"@en;
+  skos:altLabel "Adobe Systems Incorporated Source Code License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/Adobe-2006>;
   skos:inScheme scheme:;
   skos:prefLabel "Adobe-2006"@en .
@@ -2433,7 +2433,7 @@ fdc:AdobeGlyph a skos:Concept;
 gdmt:AdobeGlyph a skos:Concept;
   skos:exactMatch fdc:AdobeGlyph;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Adobe Glyph List License"@en;
+  skos:altLabel "Adobe Glyph List License"@en;
   skos:exactMatch <https://spdx.org/licenses/Adobe-Glyph>;
   skos:inScheme scheme:;
   skos:prefLabel "Adobe-Glyph"@en .
@@ -2447,7 +2447,7 @@ fdc:ADSL a skos:Concept;
 gdmt:ADSL a skos:Concept;
   skos:exactMatch fdc:ADSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Amazon Digital Services License"@en;
+  skos:altLabel "Amazon Digital Services License"@en;
   skos:exactMatch <https://spdx.org/licenses/ADSL>;
   skos:inScheme scheme:;
   skos:prefLabel "ADSL"@en .
@@ -2461,7 +2461,7 @@ fdc:AFL1.1 a skos:Concept;
 gdmt:AFL1.1 a skos:Concept;
   skos:exactMatch fdc:AFL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academic Free License v1.1"@en;
+  skos:altLabel "Academic Free License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/AFL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "AFL-1.1"@en .
@@ -2475,7 +2475,7 @@ fdc:AFL1.2 a skos:Concept;
 gdmt:AFL1.2 a skos:Concept;
   skos:exactMatch fdc:AFL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academic Free License v1.2"@en;
+  skos:altLabel "Academic Free License v1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/AFL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "AFL-1.2"@en .
@@ -2489,7 +2489,7 @@ fdc:AFL2.0 a skos:Concept;
 gdmt:AFL2.0 a skos:Concept;
   skos:exactMatch fdc:AFL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academic Free License v2.0"@en;
+  skos:altLabel "Academic Free License v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/AFL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "AFL-2.0"@en .
@@ -2503,7 +2503,7 @@ fdc:AFL2.1 a skos:Concept;
 gdmt:AFL2.1 a skos:Concept;
   skos:exactMatch fdc:AFL2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academic Free License v2.1"@en;
+  skos:altLabel "Academic Free License v2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/AFL-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "AFL-2.1"@en .
@@ -2517,7 +2517,7 @@ fdc:AFL3.0 a skos:Concept;
 gdmt:AFL3.0 a skos:Concept;
   skos:exactMatch fdc:AFL3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academic Free License v3.0"@en;
+  skos:altLabel "Academic Free License v3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/AFL-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "AFL-3.0"@en .
@@ -2531,7 +2531,7 @@ fdc:Afmparse a skos:Concept;
 gdmt:Afmparse a skos:Concept;
   skos:exactMatch fdc:Afmparse;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Afmparse License"@en;
+  skos:altLabel "Afmparse License"@en;
   skos:exactMatch <https://spdx.org/licenses/Afmparse>;
   skos:inScheme scheme:;
   skos:prefLabel "Afmparse"@en .
@@ -2545,7 +2545,7 @@ fdc:AGPL1.0only a skos:Concept;
 gdmt:AGPL1.0only a skos:Concept;
   skos:exactMatch fdc:AGPL1.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Affero General Public License v1.0 only"@en;
+  skos:altLabel "Affero General Public License v1.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/AGPL-1.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "AGPL-1.0-only"@en .
@@ -2559,7 +2559,7 @@ fdc:AGPL1.0orlater a skos:Concept;
 gdmt:AGPL1.0orlater a skos:Concept;
   skos:exactMatch fdc:AGPL1.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Affero General Public License v1.0 or later"@en;
+  skos:altLabel "Affero General Public License v1.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/AGPL-1.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "AGPL-1.0-or-later"@en .
@@ -2573,7 +2573,7 @@ fdc:AGPL3.0only a skos:Concept;
 gdmt:AGPL3.0only a skos:Concept;
   skos:exactMatch fdc:AGPL3.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Affero General Public License v3.0 only"@en;
+  skos:altLabel "GNU Affero General Public License v3.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/AGPL-3.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "AGPL-3.0-only"@en .
@@ -2587,7 +2587,7 @@ fdc:AGPL3.0orlater a skos:Concept;
 gdmt:AGPL3.0orlater a skos:Concept;
   skos:exactMatch fdc:AGPL3.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Affero General Public License v3.0 or later"@en;
+  skos:altLabel "GNU Affero General Public License v3.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/AGPL-3.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "AGPL-3.0-or-later"@en .
@@ -2601,7 +2601,7 @@ fdc:Aladdin a skos:Concept;
 gdmt:Aladdin a skos:Concept;
   skos:exactMatch fdc:Aladdin;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Aladdin Free Public License"@en;
+  skos:altLabel "Aladdin Free Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/Aladdin>;
   skos:inScheme scheme:;
   skos:prefLabel "Aladdin"@en .
@@ -2615,7 +2615,7 @@ fdc:AMDPLPA a skos:Concept;
 gdmt:AMDPLPA a skos:Concept;
   skos:exactMatch fdc:AMDPLPA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "AMD's plpa_map.c License"@en;
+  skos:altLabel "AMD's plpa_map.c License"@en;
   skos:exactMatch <https://spdx.org/licenses/AMDPLPA>;
   skos:inScheme scheme:;
   skos:prefLabel "AMDPLPA"@en .
@@ -2629,7 +2629,7 @@ fdc:AML a skos:Concept;
 gdmt:AML a skos:Concept;
   skos:exactMatch fdc:AML;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apple MIT License"@en;
+  skos:altLabel "Apple MIT License"@en;
   skos:exactMatch <https://spdx.org/licenses/AML>;
   skos:inScheme scheme:;
   skos:prefLabel "AML"@en .
@@ -2643,7 +2643,7 @@ fdc:AMPAS a skos:Concept;
 gdmt:AMPAS a skos:Concept;
   skos:exactMatch fdc:AMPAS;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Academy of Motion Picture Arts and Sciences BSD"@en;
+  skos:altLabel "Academy of Motion Picture Arts and Sciences BSD"@en;
   skos:exactMatch <https://spdx.org/licenses/AMPAS>;
   skos:inScheme scheme:;
   skos:prefLabel "AMPAS"@en .
@@ -2657,7 +2657,7 @@ fdc:ANTLRPD a skos:Concept;
 gdmt:ANTLRPD a skos:Concept;
   skos:exactMatch fdc:ANTLRPD;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ANTLR Software Rights Notice"@en;
+  skos:altLabel "ANTLR Software Rights Notice"@en;
   skos:exactMatch <https://spdx.org/licenses/ANTLR-PD>;
   skos:inScheme scheme:;
   skos:prefLabel "ANTLR-PD"@en .
@@ -2671,7 +2671,7 @@ fdc:ANTLRPDfallback a skos:Concept;
 gdmt:ANTLRPDfallback a skos:Concept;
   skos:exactMatch fdc:ANTLRPDfallback;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ANTLR Software Rights Notice with license fallback"@en;
+  skos:altLabel "ANTLR Software Rights Notice with license fallback"@en;
   skos:exactMatch <https://spdx.org/licenses/ANTLR-PD-fallback>;
   skos:inScheme scheme:;
   skos:prefLabel "ANTLR-PD-fallback"@en .
@@ -2685,7 +2685,7 @@ fdc:Apache1.0 a skos:Concept;
 gdmt:Apache1.0 a skos:Concept;
   skos:exactMatch fdc:Apache1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apache License 1.0"@en;
+  skos:altLabel "Apache License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Apache-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Apache-1.0"@en .
@@ -2699,7 +2699,7 @@ fdc:Apache1.1 a skos:Concept;
 gdmt:Apache1.1 a skos:Concept;
   skos:exactMatch fdc:Apache1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apache License 1.1"@en;
+  skos:altLabel "Apache License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/Apache-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "Apache-1.1"@en .
@@ -2713,7 +2713,7 @@ fdc:Apache2.0 a skos:Concept;
 gdmt:Apache2.0 a skos:Concept;
   skos:exactMatch fdc:Apache2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apache License 2.0"@en;
+  skos:altLabel "Apache License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Apache-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Apache-2.0"@en .
@@ -2727,7 +2727,7 @@ fdc:APAFML a skos:Concept;
 gdmt:APAFML a skos:Concept;
   skos:exactMatch fdc:APAFML;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Adobe Postscript AFM License"@en;
+  skos:altLabel "Adobe Postscript AFM License"@en;
   skos:exactMatch <https://spdx.org/licenses/APAFML>;
   skos:inScheme scheme:;
   skos:prefLabel "APAFML"@en .
@@ -2741,7 +2741,7 @@ fdc:APL1.0 a skos:Concept;
 gdmt:APL1.0 a skos:Concept;
   skos:exactMatch fdc:APL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Adaptive Public License 1.0"@en;
+  skos:altLabel "Adaptive Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/APL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "APL-1.0"@en .
@@ -2755,7 +2755,7 @@ fdc:APSL1.0 a skos:Concept;
 gdmt:APSL1.0 a skos:Concept;
   skos:exactMatch fdc:APSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apple Public Source License 1.0"@en;
+  skos:altLabel "Apple Public Source License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/APSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "APSL-1.0"@en .
@@ -2769,7 +2769,7 @@ fdc:APSL1.1 a skos:Concept;
 gdmt:APSL1.1 a skos:Concept;
   skos:exactMatch fdc:APSL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apple Public Source License 1.1"@en;
+  skos:altLabel "Apple Public Source License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/APSL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "APSL-1.1"@en .
@@ -2783,7 +2783,7 @@ fdc:APSL1.2 a skos:Concept;
 gdmt:APSL1.2 a skos:Concept;
   skos:exactMatch fdc:APSL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apple Public Source License 1.2"@en;
+  skos:altLabel "Apple Public Source License 1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/APSL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "APSL-1.2"@en .
@@ -2797,7 +2797,7 @@ fdc:APSL2.0 a skos:Concept;
 gdmt:APSL2.0 a skos:Concept;
   skos:exactMatch fdc:APSL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Apple Public Source License 2.0"@en;
+  skos:altLabel "Apple Public Source License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/APSL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "APSL-2.0"@en .
@@ -2811,7 +2811,7 @@ fdc:Artistic1.0 a skos:Concept;
 gdmt:Artistic1.0 a skos:Concept;
   skos:exactMatch fdc:Artistic1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Artistic License 1.0"@en;
+  skos:altLabel "Artistic License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Artistic-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Artistic-1.0"@en .
@@ -2825,7 +2825,7 @@ fdc:Artistic1.0cl8 a skos:Concept;
 gdmt:Artistic1.0cl8 a skos:Concept;
   skos:exactMatch fdc:Artistic1.0cl8;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Artistic License 1.0 w/clause 8"@en;
+  skos:altLabel "Artistic License 1.0 w/clause 8"@en;
   skos:exactMatch <https://spdx.org/licenses/Artistic-1.0-cl8>;
   skos:inScheme scheme:;
   skos:prefLabel "Artistic-1.0-cl8"@en .
@@ -2839,7 +2839,7 @@ fdc:Artistic1.0Perl a skos:Concept;
 gdmt:Artistic1.0Perl a skos:Concept;
   skos:exactMatch fdc:Artistic1.0Perl;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Artistic License 1.0 (Perl)"@en;
+  skos:altLabel "Artistic License 1.0 (Perl)"@en;
   skos:exactMatch <https://spdx.org/licenses/Artistic-1.0-Perl>;
   skos:inScheme scheme:;
   skos:prefLabel "Artistic-1.0-Perl"@en .
@@ -2853,7 +2853,7 @@ fdc:Artistic2.0 a skos:Concept;
 gdmt:Artistic2.0 a skos:Concept;
   skos:exactMatch fdc:Artistic2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Artistic License 2.0"@en;
+  skos:altLabel "Artistic License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Artistic-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Artistic-2.0"@en .
@@ -2867,7 +2867,7 @@ fdc:Bahyph a skos:Concept;
 gdmt:Bahyph a skos:Concept;
   skos:exactMatch fdc:Bahyph;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Bahyph License"@en;
+  skos:altLabel "Bahyph License"@en;
   skos:exactMatch <https://spdx.org/licenses/Bahyph>;
   skos:inScheme scheme:;
   skos:prefLabel "Bahyph"@en .
@@ -2881,7 +2881,7 @@ fdc:Barr a skos:Concept;
 gdmt:Barr a skos:Concept;
   skos:exactMatch fdc:Barr;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Barr License"@en;
+  skos:altLabel "Barr License"@en;
   skos:exactMatch <https://spdx.org/licenses/Barr>;
   skos:inScheme scheme:;
   skos:prefLabel "Barr"@en .
@@ -2895,7 +2895,7 @@ fdc:Beerware a skos:Concept;
 gdmt:Beerware a skos:Concept;
   skos:exactMatch fdc:Beerware;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Beerware License"@en;
+  skos:altLabel "Beerware License"@en;
   skos:exactMatch <https://spdx.org/licenses/Beerware>;
   skos:inScheme scheme:;
   skos:prefLabel "Beerware"@en .
@@ -2909,7 +2909,7 @@ fdc:BitTorrent1.0 a skos:Concept;
 gdmt:BitTorrent1.0 a skos:Concept;
   skos:exactMatch fdc:BitTorrent1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BitTorrent Open Source License v1.0"@en;
+  skos:altLabel "BitTorrent Open Source License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/BitTorrent-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "BitTorrent-1.0"@en .
@@ -2923,7 +2923,7 @@ fdc:BitTorrent1.1 a skos:Concept;
 gdmt:BitTorrent1.1 a skos:Concept;
   skos:exactMatch fdc:BitTorrent1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BitTorrent Open Source License v1.1"@en;
+  skos:altLabel "BitTorrent Open Source License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/BitTorrent-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "BitTorrent-1.1"@en .
@@ -2937,7 +2937,7 @@ fdc:blessing a skos:Concept;
 gdmt:blessing a skos:Concept;
   skos:exactMatch fdc:blessing;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SQLite Blessing"@en;
+  skos:altLabel "SQLite Blessing"@en;
   skos:exactMatch <https://spdx.org/licenses/blessing>;
   skos:inScheme scheme:;
   skos:prefLabel "blessing"@en .
@@ -2951,7 +2951,7 @@ fdc:BlueOak1.0.0 a skos:Concept;
 gdmt:BlueOak1.0.0 a skos:Concept;
   skos:exactMatch fdc:BlueOak1.0.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Blue Oak Model License 1.0.0"@en;
+  skos:altLabel "Blue Oak Model License 1.0.0"@en;
   skos:exactMatch <https://spdx.org/licenses/BlueOak-1.0.0>;
   skos:inScheme scheme:;
   skos:prefLabel "BlueOak-1.0.0"@en .
@@ -2965,7 +2965,7 @@ fdc:Borceux a skos:Concept;
 gdmt:Borceux a skos:Concept;
   skos:exactMatch fdc:Borceux;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Borceux license"@en;
+  skos:altLabel "Borceux license"@en;
   skos:exactMatch <https://spdx.org/licenses/Borceux>;
   skos:inScheme scheme:;
   skos:prefLabel "Borceux"@en .
@@ -2979,7 +2979,7 @@ fdc:BSD1Clause a skos:Concept;
 gdmt:BSD1Clause a skos:Concept;
   skos:exactMatch fdc:BSD1Clause;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 1-Clause License"@en;
+  skos:altLabel "BSD 1-Clause License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-1-Clause>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-1-Clause"@en .
@@ -2993,7 +2993,7 @@ fdc:BSD2Clause a skos:Concept;
 gdmt:BSD2Clause a skos:Concept;
   skos:exactMatch fdc:BSD2Clause;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 2-Clause \"Simplified\" License"@en;
+  skos:altLabel "BSD 2-Clause \"Simplified\" License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-2-Clause>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-2-Clause"@en .
@@ -3007,7 +3007,7 @@ fdc:BSD2ClausePatent a skos:Concept;
 gdmt:BSD2ClausePatent a skos:Concept;
   skos:exactMatch fdc:BSD2ClausePatent;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD-2-Clause Plus Patent License"@en;
+  skos:altLabel "BSD-2-Clause Plus Patent License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-2-Clause-Patent>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-2-Clause-Patent"@en .
@@ -3021,7 +3021,7 @@ fdc:BSD2ClauseViews a skos:Concept;
 gdmt:BSD2ClauseViews a skos:Concept;
   skos:exactMatch fdc:BSD2ClauseViews;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 2-Clause with views sentence"@en;
+  skos:altLabel "BSD 2-Clause with views sentence"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-2-Clause-Views>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-2-Clause-Views"@en .
@@ -3035,7 +3035,7 @@ fdc:BSD3Clause a skos:Concept;
 gdmt:BSD3Clause a skos:Concept;
   skos:exactMatch fdc:BSD3Clause;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause \"New\" or \"Revised\" License"@en;
+  skos:altLabel "BSD 3-Clause \"New\" or \"Revised\" License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause"@en .
@@ -3049,7 +3049,7 @@ fdc:BSD3ClauseAttribution a skos:Concept;
 gdmt:BSD3ClauseAttribution a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseAttribution;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD with attribution"@en;
+  skos:altLabel "BSD with attribution"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-Attribution>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-Attribution"@en .
@@ -3063,7 +3063,7 @@ fdc:BSD3ClauseClear a skos:Concept;
 gdmt:BSD3ClauseClear a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseClear;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause Clear License"@en;
+  skos:altLabel "BSD 3-Clause Clear License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-Clear>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-Clear"@en .
@@ -3077,7 +3077,7 @@ fdc:BSD3ClauseLBNL a skos:Concept;
 gdmt:BSD3ClauseLBNL a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseLBNL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Lawrence Berkeley National Labs BSD variant license"@en;
+  skos:altLabel "Lawrence Berkeley National Labs BSD variant license"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-LBNL>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-LBNL"@en .
@@ -3091,7 +3091,7 @@ fdc:BSD3ClauseNoNuclearLicense a skos:Concept;
 gdmt:BSD3ClauseNoNuclearLicense a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseNoNuclearLicense;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause No Nuclear License"@en;
+  skos:altLabel "BSD 3-Clause No Nuclear License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-No-Nuclear-License"@en .
@@ -3105,7 +3105,7 @@ fdc:BSD3ClauseNoNuclearLicense2014 a skos:Concept;
 gdmt:BSD3ClauseNoNuclearLicense2014 a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseNoNuclearLicense2014;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause No Nuclear License 2014"@en;
+  skos:altLabel "BSD 3-Clause No Nuclear License 2014"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-No-Nuclear-License-2014"@en .
@@ -3119,7 +3119,7 @@ fdc:BSD3ClauseNoNuclearWarranty a skos:Concept;
 gdmt:BSD3ClauseNoNuclearWarranty a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseNoNuclearWarranty;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause No Nuclear Warranty"@en;
+  skos:altLabel "BSD 3-Clause No Nuclear Warranty"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-No-Nuclear-Warranty"@en .
@@ -3133,7 +3133,7 @@ fdc:BSD3ClauseOpenMPI a skos:Concept;
 gdmt:BSD3ClauseOpenMPI a skos:Concept;
   skos:exactMatch fdc:BSD3ClauseOpenMPI;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 3-Clause Open MPI variant"@en;
+  skos:altLabel "BSD 3-Clause Open MPI variant"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-3-Clause-Open-MPI>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-3-Clause-Open-MPI"@en .
@@ -3147,7 +3147,7 @@ fdc:BSD4Clause a skos:Concept;
 gdmt:BSD4Clause a skos:Concept;
   skos:exactMatch fdc:BSD4Clause;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD 4-Clause \"Original\" or \"Old\" License"@en;
+  skos:altLabel "BSD 4-Clause \"Original\" or \"Old\" License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-4-Clause>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-4-Clause"@en .
@@ -3161,7 +3161,7 @@ fdc:BSD4ClauseUC a skos:Concept;
 gdmt:BSD4ClauseUC a skos:Concept;
   skos:exactMatch fdc:BSD4ClauseUC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD-4-Clause (University of California-Specific)"@en;
+  skos:altLabel "BSD-4-Clause (University of California-Specific)"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-4-Clause-UC>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-4-Clause-UC"@en .
@@ -3175,7 +3175,7 @@ fdc:BSDProtection a skos:Concept;
 gdmt:BSDProtection a skos:Concept;
   skos:exactMatch fdc:BSDProtection;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD Protection License"@en;
+  skos:altLabel "BSD Protection License"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-Protection>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-Protection"@en .
@@ -3189,7 +3189,7 @@ fdc:BSDSourceCode a skos:Concept;
 gdmt:BSDSourceCode a skos:Concept;
   skos:exactMatch fdc:BSDSourceCode;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "BSD Source Code Attribution"@en;
+  skos:altLabel "BSD Source Code Attribution"@en;
   skos:exactMatch <https://spdx.org/licenses/BSD-Source-Code>;
   skos:inScheme scheme:;
   skos:prefLabel "BSD-Source-Code"@en .
@@ -3203,7 +3203,7 @@ fdc:BSL1.0 a skos:Concept;
 gdmt:BSL1.0 a skos:Concept;
   skos:exactMatch fdc:BSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Boost Software License 1.0"@en;
+  skos:altLabel "Boost Software License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/BSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "BSL-1.0"@en .
@@ -3217,7 +3217,7 @@ fdc:BUSL1.1 a skos:Concept;
 gdmt:BUSL1.1 a skos:Concept;
   skos:exactMatch fdc:BUSL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Business Source License 1.1"@en;
+  skos:altLabel "Business Source License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/BUSL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "BUSL-1.1"@en .
@@ -3231,7 +3231,7 @@ fdc:bzip21.0.5 a skos:Concept;
 gdmt:bzip21.0.5 a skos:Concept;
   skos:exactMatch fdc:bzip21.0.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "bzip2 and libbzip2 License v1.0.5"@en;
+  skos:altLabel "bzip2 and libbzip2 License v1.0.5"@en;
   skos:exactMatch <https://spdx.org/licenses/bzip2-1.0.5>;
   skos:inScheme scheme:;
   skos:prefLabel "bzip2-1.0.5"@en .
@@ -3245,7 +3245,7 @@ fdc:bzip21.0.6 a skos:Concept;
 gdmt:bzip21.0.6 a skos:Concept;
   skos:exactMatch fdc:bzip21.0.6;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "bzip2 and libbzip2 License v1.0.6"@en;
+  skos:altLabel "bzip2 and libbzip2 License v1.0.6"@en;
   skos:exactMatch <https://spdx.org/licenses/bzip2-1.0.6>;
   skos:inScheme scheme:;
   skos:prefLabel "bzip2-1.0.6"@en .
@@ -3259,7 +3259,7 @@ fdc:CAL1.0 a skos:Concept;
 gdmt:CAL1.0 a skos:Concept;
   skos:exactMatch fdc:CAL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Cryptographic Autonomy License 1.0"@en;
+  skos:altLabel "Cryptographic Autonomy License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CAL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CAL-1.0"@en .
@@ -3273,7 +3273,7 @@ fdc:CAL1.0CombinedWorkException a skos:Concept;
 gdmt:CAL1.0CombinedWorkException a skos:Concept;
   skos:exactMatch fdc:CAL1.0CombinedWorkException;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Cryptographic Autonomy License 1.0 (Combined Work Exception)"@en;
+  skos:altLabel "Cryptographic Autonomy License 1.0 (Combined Work Exception)"@en;
   skos:exactMatch <https://spdx.org/licenses/CAL-1.0-Combined-Work-Exception>;
   skos:inScheme scheme:;
   skos:prefLabel "CAL-1.0-Combined-Work-Exception"@en .
@@ -3287,7 +3287,7 @@ fdc:Caldera a skos:Concept;
 gdmt:Caldera a skos:Concept;
   skos:exactMatch fdc:Caldera;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Caldera License"@en;
+  skos:altLabel "Caldera License"@en;
   skos:exactMatch <https://spdx.org/licenses/Caldera>;
   skos:inScheme scheme:;
   skos:prefLabel "Caldera"@en .
@@ -3301,7 +3301,7 @@ fdc:CATOSL1.1 a skos:Concept;
 gdmt:CATOSL1.1 a skos:Concept;
   skos:exactMatch fdc:CATOSL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Computer Associates Trusted Open Source License 1.1"@en;
+  skos:altLabel "Computer Associates Trusted Open Source License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/CATOSL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "CATOSL-1.1"@en .
@@ -3315,7 +3315,7 @@ fdc:CCBY1.0 a skos:Concept;
 gdmt:CCBY1.0 a skos:Concept;
   skos:exactMatch fdc:CCBY1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-1.0"@en .
@@ -3329,7 +3329,7 @@ fdc:CCBY2.0 a skos:Concept;
 gdmt:CCBY2.0 a skos:Concept;
   skos:exactMatch fdc:CCBY2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-2.0"@en .
@@ -3343,7 +3343,7 @@ fdc:CCBY2.5 a skos:Concept;
 gdmt:CCBY2.5 a skos:Concept;
   skos:exactMatch fdc:CCBY2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-2.5"@en .
@@ -3357,7 +3357,7 @@ fdc:CCBY3.0 a skos:Concept;
 gdmt:CCBY3.0 a skos:Concept;
   skos:exactMatch fdc:CCBY3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-3.0"@en .
@@ -3371,7 +3371,7 @@ fdc:CCBY3.0AT a skos:Concept;
 gdmt:CCBY3.0AT a skos:Concept;
   skos:exactMatch fdc:CCBY3.0AT;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 3.0 Austria"@en;
+  skos:altLabel "Creative Commons Attribution 3.0 Austria"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-3.0-AT>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-3.0-AT"@en .
@@ -3385,7 +3385,7 @@ fdc:CCBY3.0US a skos:Concept;
 gdmt:CCBY3.0US a skos:Concept;
   skos:exactMatch fdc:CCBY3.0US;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 3.0 United States"@en;
+  skos:altLabel "Creative Commons Attribution 3.0 United States"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-3.0-US>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-3.0-US"@en .
@@ -3399,7 +3399,7 @@ fdc:CCBY4.0 a skos:Concept;
 gdmt:CCBY4.0 a skos:Concept;
   skos:exactMatch fdc:CCBY4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-4.0"@en .
@@ -3413,7 +3413,7 @@ fdc:CCBYNC1.0 a skos:Concept;
 gdmt:CCBYNC1.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNC1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-1.0"@en .
@@ -3427,7 +3427,7 @@ fdc:CCBYNC2.0 a skos:Concept;
 gdmt:CCBYNC2.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNC2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-2.0"@en .
@@ -3441,7 +3441,7 @@ fdc:CCBYNC2.5 a skos:Concept;
 gdmt:CCBYNC2.5 a skos:Concept;
   skos:exactMatch fdc:CCBYNC2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-2.5"@en .
@@ -3455,7 +3455,7 @@ fdc:CCBYNC3.0 a skos:Concept;
 gdmt:CCBYNC3.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNC3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-3.0"@en .
@@ -3469,7 +3469,7 @@ fdc:CCBYNC4.0 a skos:Concept;
 gdmt:CCBYNC4.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNC4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-4.0"@en .
@@ -3483,7 +3483,7 @@ fdc:CCBYNCND1.0 a skos:Concept;
 gdmt:CCBYNCND1.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCND1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-1.0"@en .
@@ -3497,7 +3497,7 @@ fdc:CCBYNCND2.0 a skos:Concept;
 gdmt:CCBYNCND2.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCND2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-2.0"@en .
@@ -3511,7 +3511,7 @@ fdc:CCBYNCND2.5 a skos:Concept;
 gdmt:CCBYNCND2.5 a skos:Concept;
   skos:exactMatch fdc:CCBYNCND2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-2.5"@en .
@@ -3525,7 +3525,7 @@ fdc:CCBYNCND3.0 a skos:Concept;
 gdmt:CCBYNCND3.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCND3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-3.0"@en .
@@ -3539,7 +3539,7 @@ fdc:CCBYNCND3.0IGO a skos:Concept;
 gdmt:CCBYNCND3.0IGO a skos:Concept;
   skos:exactMatch fdc:CCBYNCND3.0IGO;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-3.0-IGO>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-3.0-IGO"@en .
@@ -3553,7 +3553,7 @@ fdc:CCBYNCND4.0 a skos:Concept;
 gdmt:CCBYNCND4.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCND4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-ND-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-ND-4.0"@en .
@@ -3567,7 +3567,7 @@ fdc:CCBYNCSA1.0 a skos:Concept;
 gdmt:CCBYNCSA1.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCSA1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-SA-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-SA-1.0"@en .
@@ -3581,7 +3581,7 @@ fdc:CCBYNCSA2.0 a skos:Concept;
 gdmt:CCBYNCSA2.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCSA2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-SA-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-SA-2.0"@en .
@@ -3595,7 +3595,7 @@ fdc:CCBYNCSA2.5 a skos:Concept;
 gdmt:CCBYNCSA2.5 a skos:Concept;
   skos:exactMatch fdc:CCBYNCSA2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-SA-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-SA-2.5"@en .
@@ -3609,7 +3609,7 @@ fdc:CCBYNCSA3.0 a skos:Concept;
 gdmt:CCBYNCSA3.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCSA3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-SA-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-SA-3.0"@en .
@@ -3623,7 +3623,7 @@ fdc:CCBYNCSA4.0 a skos:Concept;
 gdmt:CCBYNCSA4.0 a skos:Concept;
   skos:exactMatch fdc:CCBYNCSA4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Non Commercial Share Alike 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution Non Commercial Share Alike 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-NC-SA-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-NC-SA-4.0"@en .
@@ -3637,7 +3637,7 @@ fdc:CCBYND1.0 a skos:Concept;
 gdmt:CCBYND1.0 a skos:Concept;
   skos:exactMatch fdc:CCBYND1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution No Derivatives 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution No Derivatives 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-ND-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-ND-1.0"@en .
@@ -3651,7 +3651,7 @@ fdc:CCBYND2.0 a skos:Concept;
 gdmt:CCBYND2.0 a skos:Concept;
   skos:exactMatch fdc:CCBYND2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution No Derivatives 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution No Derivatives 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-ND-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-ND-2.0"@en .
@@ -3665,7 +3665,7 @@ fdc:CCBYND2.5 a skos:Concept;
 gdmt:CCBYND2.5 a skos:Concept;
   skos:exactMatch fdc:CCBYND2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution No Derivatives 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution No Derivatives 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-ND-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-ND-2.5"@en .
@@ -3679,7 +3679,7 @@ fdc:CCBYND3.0 a skos:Concept;
 gdmt:CCBYND3.0 a skos:Concept;
   skos:exactMatch fdc:CCBYND3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution No Derivatives 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution No Derivatives 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-ND-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-ND-3.0"@en .
@@ -3693,7 +3693,7 @@ fdc:CCBYND4.0 a skos:Concept;
 gdmt:CCBYND4.0 a skos:Concept;
   skos:exactMatch fdc:CCBYND4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution No Derivatives 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution No Derivatives 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-ND-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-ND-4.0"@en .
@@ -3707,7 +3707,7 @@ fdc:CCBYSA1.0 a skos:Concept;
 gdmt:CCBYSA1.0 a skos:Concept;
   skos:exactMatch fdc:CCBYSA1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 1.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 1.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-1.0"@en .
@@ -3721,7 +3721,7 @@ fdc:CCBYSA2.0 a skos:Concept;
 gdmt:CCBYSA2.0 a skos:Concept;
   skos:exactMatch fdc:CCBYSA2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 2.0 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 2.0 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-2.0"@en .
@@ -3735,7 +3735,7 @@ fdc:CCBYSA2.0UK a skos:Concept;
 gdmt:CCBYSA2.0UK a skos:Concept;
   skos:exactMatch fdc:CCBYSA2.0UK;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 2.0 England and Wales"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 2.0 England and Wales"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-2.0-UK>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-2.0-UK"@en .
@@ -3749,7 +3749,7 @@ fdc:CCBYSA2.5 a skos:Concept;
 gdmt:CCBYSA2.5 a skos:Concept;
   skos:exactMatch fdc:CCBYSA2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 2.5 Generic"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 2.5 Generic"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-2.5"@en .
@@ -3763,7 +3763,7 @@ fdc:CCBYSA3.0 a skos:Concept;
 gdmt:CCBYSA3.0 a skos:Concept;
   skos:exactMatch fdc:CCBYSA3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 3.0 Unported"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 3.0 Unported"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-3.0"@en .
@@ -3777,7 +3777,7 @@ fdc:CCBYSA3.0AT a skos:Concept;
 gdmt:CCBYSA3.0AT a skos:Concept;
   skos:exactMatch fdc:CCBYSA3.0AT;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution-Share Alike 3.0 Austria"@en;
+  skos:altLabel "Creative Commons Attribution-Share Alike 3.0 Austria"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-3.0-AT>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-3.0-AT"@en .
@@ -3791,7 +3791,7 @@ fdc:CCBYSA4.0 a skos:Concept;
 gdmt:CCBYSA4.0 a skos:Concept;
   skos:exactMatch fdc:CCBYSA4.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Attribution Share Alike 4.0 International"@en;
+  skos:altLabel "Creative Commons Attribution Share Alike 4.0 International"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-BY-SA-4.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-BY-SA-4.0"@en .
@@ -3805,7 +3805,7 @@ fdc:CCPDDC a skos:Concept;
 gdmt:CCPDDC a skos:Concept;
   skos:exactMatch fdc:CCPDDC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Public Domain Dedication and Certification"@en;
+  skos:altLabel "Creative Commons Public Domain Dedication and Certification"@en;
   skos:exactMatch <https://spdx.org/licenses/CC-PDDC>;
   skos:inScheme scheme:;
   skos:prefLabel "CC-PDDC"@en .
@@ -3819,7 +3819,7 @@ fdc:CC01.0 a skos:Concept;
 gdmt:CC01.0 a skos:Concept;
   skos:exactMatch fdc:CC01.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Creative Commons Zero v1.0 Universal"@en;
+  skos:altLabel "Creative Commons Zero v1.0 Universal"@en;
   skos:exactMatch <https://spdx.org/licenses/CC0-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CC0-1.0"@en .
@@ -3833,7 +3833,7 @@ fdc:CDDL1.0 a skos:Concept;
 gdmt:CDDL1.0 a skos:Concept;
   skos:exactMatch fdc:CDDL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Common Development and Distribution License 1.0"@en;
+  skos:altLabel "Common Development and Distribution License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CDDL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CDDL-1.0"@en .
@@ -3847,7 +3847,7 @@ fdc:CDDL1.1 a skos:Concept;
 gdmt:CDDL1.1 a skos:Concept;
   skos:exactMatch fdc:CDDL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Common Development and Distribution License 1.1"@en;
+  skos:altLabel "Common Development and Distribution License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/CDDL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "CDDL-1.1"@en .
@@ -3861,7 +3861,7 @@ fdc:CDLAPermissive1.0 a skos:Concept;
 gdmt:CDLAPermissive1.0 a skos:Concept;
   skos:exactMatch fdc:CDLAPermissive1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Community Data License Agreement Permissive 1.0"@en;
+  skos:altLabel "Community Data License Agreement Permissive 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CDLA-Permissive-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CDLA-Permissive-1.0"@en .
@@ -3875,7 +3875,7 @@ fdc:CDLASharing1.0 a skos:Concept;
 gdmt:CDLASharing1.0 a skos:Concept;
   skos:exactMatch fdc:CDLASharing1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Community Data License Agreement Sharing 1.0"@en;
+  skos:altLabel "Community Data License Agreement Sharing 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CDLA-Sharing-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CDLA-Sharing-1.0"@en .
@@ -3889,7 +3889,7 @@ fdc:CECILL1.0 a skos:Concept;
 gdmt:CECILL1.0 a skos:Concept;
   skos:exactMatch fdc:CECILL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL Free Software License Agreement v1.0"@en;
+  skos:altLabel "CeCILL Free Software License Agreement v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-1.0"@en .
@@ -3903,7 +3903,7 @@ fdc:CECILL1.1 a skos:Concept;
 gdmt:CECILL1.1 a skos:Concept;
   skos:exactMatch fdc:CECILL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL Free Software License Agreement v1.1"@en;
+  skos:altLabel "CeCILL Free Software License Agreement v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-1.1"@en .
@@ -3917,7 +3917,7 @@ fdc:CECILL2.0 a skos:Concept;
 gdmt:CECILL2.0 a skos:Concept;
   skos:exactMatch fdc:CECILL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL Free Software License Agreement v2.0"@en;
+  skos:altLabel "CeCILL Free Software License Agreement v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-2.0"@en .
@@ -3931,7 +3931,7 @@ fdc:CECILL2.1 a skos:Concept;
 gdmt:CECILL2.1 a skos:Concept;
   skos:exactMatch fdc:CECILL2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL Free Software License Agreement v2.1"@en;
+  skos:altLabel "CeCILL Free Software License Agreement v2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-2.1"@en .
@@ -3945,7 +3945,7 @@ fdc:CECILLB a skos:Concept;
 gdmt:CECILLB a skos:Concept;
   skos:exactMatch fdc:CECILLB;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL-B Free Software License Agreement"@en;
+  skos:altLabel "CeCILL-B Free Software License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-B>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-B"@en .
@@ -3959,7 +3959,7 @@ fdc:CECILLC a skos:Concept;
 gdmt:CECILLC a skos:Concept;
   skos:exactMatch fdc:CECILLC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CeCILL-C Free Software License Agreement"@en;
+  skos:altLabel "CeCILL-C Free Software License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/CECILL-C>;
   skos:inScheme scheme:;
   skos:prefLabel "CECILL-C"@en .
@@ -3973,7 +3973,7 @@ fdc:CERNOHL1.1 a skos:Concept;
 gdmt:CERNOHL1.1 a skos:Concept;
   skos:exactMatch fdc:CERNOHL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CERN Open Hardware Licence v1.1"@en;
+  skos:altLabel "CERN Open Hardware Licence v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/CERN-OHL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "CERN-OHL-1.1"@en .
@@ -3987,7 +3987,7 @@ fdc:CERNOHL1.2 a skos:Concept;
 gdmt:CERNOHL1.2 a skos:Concept;
   skos:exactMatch fdc:CERNOHL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CERN Open Hardware Licence v1.2"@en;
+  skos:altLabel "CERN Open Hardware Licence v1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/CERN-OHL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "CERN-OHL-1.2"@en .
@@ -4001,7 +4001,7 @@ fdc:CERNOHLP2.0 a skos:Concept;
 gdmt:CERNOHLP2.0 a skos:Concept;
   skos:exactMatch fdc:CERNOHLP2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CERN Open Hardware Licence Version 2 - Permissive"@en;
+  skos:altLabel "CERN Open Hardware Licence Version 2 - Permissive"@en;
   skos:exactMatch <https://spdx.org/licenses/CERN-OHL-P-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CERN-OHL-P-2.0"@en .
@@ -4015,7 +4015,7 @@ fdc:CERNOHLS2.0 a skos:Concept;
 gdmt:CERNOHLS2.0 a skos:Concept;
   skos:exactMatch fdc:CERNOHLS2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CERN Open Hardware Licence Version 2 - Strongly Reciprocal"@en;
+  skos:altLabel "CERN Open Hardware Licence Version 2 - Strongly Reciprocal"@en;
   skos:exactMatch <https://spdx.org/licenses/CERN-OHL-S-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CERN-OHL-S-2.0"@en .
@@ -4029,7 +4029,7 @@ fdc:CERNOHLW2.0 a skos:Concept;
 gdmt:CERNOHLW2.0 a skos:Concept;
   skos:exactMatch fdc:CERNOHLW2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CERN Open Hardware Licence Version 2 - Weakly Reciprocal"@en;
+  skos:altLabel "CERN Open Hardware Licence Version 2 - Weakly Reciprocal"@en;
   skos:exactMatch <https://spdx.org/licenses/CERN-OHL-W-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CERN-OHL-W-2.0"@en .
@@ -4043,7 +4043,7 @@ fdc:ClArtistic a skos:Concept;
 gdmt:ClArtistic a skos:Concept;
   skos:exactMatch fdc:ClArtistic;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Clarified Artistic License"@en;
+  skos:altLabel "Clarified Artistic License"@en;
   skos:exactMatch <https://spdx.org/licenses/ClArtistic>;
   skos:inScheme scheme:;
   skos:prefLabel "ClArtistic"@en .
@@ -4057,7 +4057,7 @@ fdc:CNRIJython a skos:Concept;
 gdmt:CNRIJython a skos:Concept;
   skos:exactMatch fdc:CNRIJython;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CNRI Jython License"@en;
+  skos:altLabel "CNRI Jython License"@en;
   skos:exactMatch <https://spdx.org/licenses/CNRI-Jython>;
   skos:inScheme scheme:;
   skos:prefLabel "CNRI-Jython"@en .
@@ -4071,7 +4071,7 @@ fdc:CNRIPython a skos:Concept;
 gdmt:CNRIPython a skos:Concept;
   skos:exactMatch fdc:CNRIPython;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CNRI Python License"@en;
+  skos:altLabel "CNRI Python License"@en;
   skos:exactMatch <https://spdx.org/licenses/CNRI-Python>;
   skos:inScheme scheme:;
   skos:prefLabel "CNRI-Python"@en .
@@ -4085,7 +4085,7 @@ fdc:CNRIPythonGPLCompatible a skos:Concept;
 gdmt:CNRIPythonGPLCompatible a skos:Concept;
   skos:exactMatch fdc:CNRIPythonGPLCompatible;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CNRI Python Open Source GPL Compatible License Agreement"@en;
+  skos:altLabel "CNRI Python Open Source GPL Compatible License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/CNRI-Python-GPL-Compatible>;
   skos:inScheme scheme:;
   skos:prefLabel "CNRI-Python-GPL-Compatible"@en .
@@ -4099,7 +4099,7 @@ fdc:Condor1.1 a skos:Concept;
 gdmt:Condor1.1 a skos:Concept;
   skos:exactMatch fdc:Condor1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Condor Public License v1.1"@en;
+  skos:altLabel "Condor Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/Condor-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "Condor-1.1"@en .
@@ -4113,7 +4113,7 @@ fdc:copyleftnext0.3.0 a skos:Concept;
 gdmt:copyleftnext0.3.0 a skos:Concept;
   skos:exactMatch fdc:copyleftnext0.3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "copyleft-next 0.3.0"@en;
+  skos:altLabel "copyleft-next 0.3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/copyleft-next-0.3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "copyleft-next-0.3.0"@en .
@@ -4127,7 +4127,7 @@ fdc:copyleftnext0.3.1 a skos:Concept;
 gdmt:copyleftnext0.3.1 a skos:Concept;
   skos:exactMatch fdc:copyleftnext0.3.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "copyleft-next 0.3.1"@en;
+  skos:altLabel "copyleft-next 0.3.1"@en;
   skos:exactMatch <https://spdx.org/licenses/copyleft-next-0.3.1>;
   skos:inScheme scheme:;
   skos:prefLabel "copyleft-next-0.3.1"@en .
@@ -4141,7 +4141,7 @@ fdc:CPAL1.0 a skos:Concept;
 gdmt:CPAL1.0 a skos:Concept;
   skos:exactMatch fdc:CPAL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Common Public Attribution License 1.0"@en;
+  skos:altLabel "Common Public Attribution License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CPAL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CPAL-1.0"@en .
@@ -4155,7 +4155,7 @@ fdc:CPL1.0 a skos:Concept;
 gdmt:CPL1.0 a skos:Concept;
   skos:exactMatch fdc:CPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Common Public License 1.0"@en;
+  skos:altLabel "Common Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CPL-1.0"@en .
@@ -4169,7 +4169,7 @@ fdc:CPOL1.02 a skos:Concept;
 gdmt:CPOL1.02 a skos:Concept;
   skos:exactMatch fdc:CPOL1.02;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Code Project Open License 1.02"@en;
+  skos:altLabel "Code Project Open License 1.02"@en;
   skos:exactMatch <https://spdx.org/licenses/CPOL-1.02>;
   skos:inScheme scheme:;
   skos:prefLabel "CPOL-1.02"@en .
@@ -4183,7 +4183,7 @@ fdc:Crossword a skos:Concept;
 gdmt:Crossword a skos:Concept;
   skos:exactMatch fdc:Crossword;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Crossword License"@en;
+  skos:altLabel "Crossword License"@en;
   skos:exactMatch <https://spdx.org/licenses/Crossword>;
   skos:inScheme scheme:;
   skos:prefLabel "Crossword"@en .
@@ -4197,7 +4197,7 @@ fdc:CrystalStacker a skos:Concept;
 gdmt:CrystalStacker a skos:Concept;
   skos:exactMatch fdc:CrystalStacker;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CrystalStacker License"@en;
+  skos:altLabel "CrystalStacker License"@en;
   skos:exactMatch <https://spdx.org/licenses/CrystalStacker>;
   skos:inScheme scheme:;
   skos:prefLabel "CrystalStacker"@en .
@@ -4211,7 +4211,7 @@ fdc:CUAOPL1.0 a skos:Concept;
 gdmt:CUAOPL1.0 a skos:Concept;
   skos:exactMatch fdc:CUAOPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CUA Office Public License v1.0"@en;
+  skos:altLabel "CUA Office Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/CUA-OPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "CUA-OPL-1.0"@en .
@@ -4225,7 +4225,7 @@ fdc:Cube a skos:Concept;
 gdmt:Cube a skos:Concept;
   skos:exactMatch fdc:Cube;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Cube License"@en;
+  skos:altLabel "Cube License"@en;
   skos:exactMatch <https://spdx.org/licenses/Cube>;
   skos:inScheme scheme:;
   skos:prefLabel "Cube"@en .
@@ -4239,7 +4239,7 @@ fdc:curl a skos:Concept;
 gdmt:curl a skos:Concept;
   skos:exactMatch fdc:curl;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "curl License"@en;
+  skos:altLabel "curl License"@en;
   skos:exactMatch <https://spdx.org/licenses/curl>;
   skos:inScheme scheme:;
   skos:prefLabel "curl"@en .
@@ -4253,7 +4253,7 @@ fdc:DFSL1.0 a skos:Concept;
 gdmt:DFSL1.0 a skos:Concept;
   skos:exactMatch fdc:DFSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Deutsche Freie Software Lizenz"@en;
+  skos:altLabel "Deutsche Freie Software Lizenz"@en;
   skos:exactMatch <https://spdx.org/licenses/D-FSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "D-FSL-1.0"@en .
@@ -4267,7 +4267,7 @@ fdc:diffmark a skos:Concept;
 gdmt:diffmark a skos:Concept;
   skos:exactMatch fdc:diffmark;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "diffmark license"@en;
+  skos:altLabel "diffmark license"@en;
   skos:exactMatch <https://spdx.org/licenses/diffmark>;
   skos:inScheme scheme:;
   skos:prefLabel "diffmark"@en .
@@ -4281,7 +4281,7 @@ fdc:DOC a skos:Concept;
 gdmt:DOC a skos:Concept;
   skos:exactMatch fdc:DOC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "DOC License"@en;
+  skos:altLabel "DOC License"@en;
   skos:exactMatch <https://spdx.org/licenses/DOC>;
   skos:inScheme scheme:;
   skos:prefLabel "DOC"@en .
@@ -4295,7 +4295,7 @@ fdc:Dotseqn a skos:Concept;
 gdmt:Dotseqn a skos:Concept;
   skos:exactMatch fdc:Dotseqn;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Dotseqn License"@en;
+  skos:altLabel "Dotseqn License"@en;
   skos:exactMatch <https://spdx.org/licenses/Dotseqn>;
   skos:inScheme scheme:;
   skos:prefLabel "Dotseqn"@en .
@@ -4309,7 +4309,7 @@ fdc:DSDP a skos:Concept;
 gdmt:DSDP a skos:Concept;
   skos:exactMatch fdc:DSDP;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "DSDP License"@en;
+  skos:altLabel "DSDP License"@en;
   skos:exactMatch <https://spdx.org/licenses/DSDP>;
   skos:inScheme scheme:;
   skos:prefLabel "DSDP"@en .
@@ -4323,7 +4323,7 @@ fdc:dvipdfm a skos:Concept;
 gdmt:dvipdfm a skos:Concept;
   skos:exactMatch fdc:dvipdfm;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "dvipdfm License"@en;
+  skos:altLabel "dvipdfm License"@en;
   skos:exactMatch <https://spdx.org/licenses/dvipdfm>;
   skos:inScheme scheme:;
   skos:prefLabel "dvipdfm"@en .
@@ -4337,7 +4337,7 @@ fdc:ECL1.0 a skos:Concept;
 gdmt:ECL1.0 a skos:Concept;
   skos:exactMatch fdc:ECL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Educational Community License v1.0"@en;
+  skos:altLabel "Educational Community License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/ECL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "ECL-1.0"@en .
@@ -4351,7 +4351,7 @@ fdc:ECL2.0 a skos:Concept;
 gdmt:ECL2.0 a skos:Concept;
   skos:exactMatch fdc:ECL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Educational Community License v2.0"@en;
+  skos:altLabel "Educational Community License v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/ECL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "ECL-2.0"@en .
@@ -4365,7 +4365,7 @@ fdc:EFL1.0 a skos:Concept;
 gdmt:EFL1.0 a skos:Concept;
   skos:exactMatch fdc:EFL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Eiffel Forum License v1.0"@en;
+  skos:altLabel "Eiffel Forum License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/EFL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "EFL-1.0"@en .
@@ -4379,7 +4379,7 @@ fdc:EFL2.0 a skos:Concept;
 gdmt:EFL2.0 a skos:Concept;
   skos:exactMatch fdc:EFL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Eiffel Forum License v2.0"@en;
+  skos:altLabel "Eiffel Forum License v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/EFL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "EFL-2.0"@en .
@@ -4393,7 +4393,7 @@ fdc:eGenix a skos:Concept;
 gdmt:eGenix a skos:Concept;
   skos:exactMatch fdc:eGenix;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "eGenix.com Public License 1.1.0"@en;
+  skos:altLabel "eGenix.com Public License 1.1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/eGenix>;
   skos:inScheme scheme:;
   skos:prefLabel "eGenix"@en .
@@ -4407,7 +4407,7 @@ fdc:Entessa a skos:Concept;
 gdmt:Entessa a skos:Concept;
   skos:exactMatch fdc:Entessa;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Entessa Public License v1.0"@en;
+  skos:altLabel "Entessa Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Entessa>;
   skos:inScheme scheme:;
   skos:prefLabel "Entessa"@en .
@@ -4421,7 +4421,7 @@ fdc:EPICS a skos:Concept;
 gdmt:EPICS a skos:Concept;
   skos:exactMatch fdc:EPICS;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "EPICS Open License"@en;
+  skos:altLabel "EPICS Open License"@en;
   skos:exactMatch <https://spdx.org/licenses/EPICS>;
   skos:inScheme scheme:;
   skos:prefLabel "EPICS"@en .
@@ -4435,7 +4435,7 @@ fdc:EPL1.0 a skos:Concept;
 gdmt:EPL1.0 a skos:Concept;
   skos:exactMatch fdc:EPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Eclipse Public License 1.0"@en;
+  skos:altLabel "Eclipse Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/EPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "EPL-1.0"@en .
@@ -4449,7 +4449,7 @@ fdc:EPL2.0 a skos:Concept;
 gdmt:EPL2.0 a skos:Concept;
   skos:exactMatch fdc:EPL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Eclipse Public License 2.0"@en;
+  skos:altLabel "Eclipse Public License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/EPL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "EPL-2.0"@en .
@@ -4463,7 +4463,7 @@ fdc:ErlPL1.1 a skos:Concept;
 gdmt:ErlPL1.1 a skos:Concept;
   skos:exactMatch fdc:ErlPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Erlang Public License v1.1"@en;
+  skos:altLabel "Erlang Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/ErlPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "ErlPL-1.1"@en .
@@ -4477,7 +4477,7 @@ fdc:etalab2.0 a skos:Concept;
 gdmt:etalab2.0 a skos:Concept;
   skos:exactMatch fdc:etalab2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Etalab Open License 2.0"@en;
+  skos:altLabel "Etalab Open License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/etalab-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "etalab-2.0"@en .
@@ -4491,7 +4491,7 @@ fdc:EUDatagrid a skos:Concept;
 gdmt:EUDatagrid a skos:Concept;
   skos:exactMatch fdc:EUDatagrid;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "EU DataGrid Software License"@en;
+  skos:altLabel "EU DataGrid Software License"@en;
   skos:exactMatch <https://spdx.org/licenses/EUDatagrid>;
   skos:inScheme scheme:;
   skos:prefLabel "EUDatagrid"@en .
@@ -4505,7 +4505,7 @@ fdc:EUPL1.0 a skos:Concept;
 gdmt:EUPL1.0 a skos:Concept;
   skos:exactMatch fdc:EUPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "European Union Public License 1.0"@en;
+  skos:altLabel "European Union Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/EUPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "EUPL-1.0"@en .
@@ -4519,7 +4519,7 @@ fdc:EUPL1.1 a skos:Concept;
 gdmt:EUPL1.1 a skos:Concept;
   skos:exactMatch fdc:EUPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "European Union Public License 1.1"@en;
+  skos:altLabel "European Union Public License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/EUPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "EUPL-1.1"@en .
@@ -4533,7 +4533,7 @@ fdc:EUPL1.2 a skos:Concept;
 gdmt:EUPL1.2 a skos:Concept;
   skos:exactMatch fdc:EUPL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "European Union Public License 1.2"@en;
+  skos:altLabel "European Union Public License 1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/EUPL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "EUPL-1.2"@en .
@@ -4547,7 +4547,7 @@ fdc:Eurosym a skos:Concept;
 gdmt:Eurosym a skos:Concept;
   skos:exactMatch fdc:Eurosym;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Eurosym License"@en;
+  skos:altLabel "Eurosym License"@en;
   skos:exactMatch <https://spdx.org/licenses/Eurosym>;
   skos:inScheme scheme:;
   skos:prefLabel "Eurosym"@en .
@@ -4561,7 +4561,7 @@ fdc:Fair a skos:Concept;
 gdmt:Fair a skos:Concept;
   skos:exactMatch fdc:Fair;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Fair License"@en;
+  skos:altLabel "Fair License"@en;
   skos:exactMatch <https://spdx.org/licenses/Fair>;
   skos:inScheme scheme:;
   skos:prefLabel "Fair"@en .
@@ -4575,7 +4575,7 @@ fdc:Frameworx1.0 a skos:Concept;
 gdmt:Frameworx1.0 a skos:Concept;
   skos:exactMatch fdc:Frameworx1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Frameworx Open License 1.0"@en;
+  skos:altLabel "Frameworx Open License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Frameworx-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Frameworx-1.0"@en .
@@ -4589,7 +4589,7 @@ fdc:FreeImage a skos:Concept;
 gdmt:FreeImage a skos:Concept;
   skos:exactMatch fdc:FreeImage;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "FreeImage Public License v1.0"@en;
+  skos:altLabel "FreeImage Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/FreeImage>;
   skos:inScheme scheme:;
   skos:prefLabel "FreeImage"@en .
@@ -4603,7 +4603,7 @@ fdc:FSFAP a skos:Concept;
 gdmt:FSFAP a skos:Concept;
   skos:exactMatch fdc:FSFAP;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "FSF All Permissive License"@en;
+  skos:altLabel "FSF All Permissive License"@en;
   skos:exactMatch <https://spdx.org/licenses/FSFAP>;
   skos:inScheme scheme:;
   skos:prefLabel "FSFAP"@en .
@@ -4617,7 +4617,7 @@ fdc:FSFUL a skos:Concept;
 gdmt:FSFUL a skos:Concept;
   skos:exactMatch fdc:FSFUL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "FSF Unlimited License"@en;
+  skos:altLabel "FSF Unlimited License"@en;
   skos:exactMatch <https://spdx.org/licenses/FSFUL>;
   skos:inScheme scheme:;
   skos:prefLabel "FSFUL"@en .
@@ -4631,7 +4631,7 @@ fdc:FSFULLR a skos:Concept;
 gdmt:FSFULLR a skos:Concept;
   skos:exactMatch fdc:FSFULLR;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "FSF Unlimited License (with License Retention)"@en;
+  skos:altLabel "FSF Unlimited License (with License Retention)"@en;
   skos:exactMatch <https://spdx.org/licenses/FSFULLR>;
   skos:inScheme scheme:;
   skos:prefLabel "FSFULLR"@en .
@@ -4645,7 +4645,7 @@ fdc:FTL a skos:Concept;
 gdmt:FTL a skos:Concept;
   skos:exactMatch fdc:FTL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Freetype Project License"@en;
+  skos:altLabel "Freetype Project License"@en;
   skos:exactMatch <https://spdx.org/licenses/FTL>;
   skos:inScheme scheme:;
   skos:prefLabel "FTL"@en .
@@ -4659,7 +4659,7 @@ fdc:GFDL1.1invariantsonly a skos:Concept;
 gdmt:GFDL1.1invariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.1invariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 only - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 only - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-invariants-only"@en .
@@ -4673,7 +4673,7 @@ fdc:GFDL1.1invariantsorlater a skos:Concept;
 gdmt:GFDL1.1invariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.1invariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 or later - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 or later - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-invariants-or-later"@en .
@@ -4687,7 +4687,7 @@ fdc:GFDL1.1noinvariantsonly a skos:Concept;
 gdmt:GFDL1.1noinvariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.1noinvariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 only - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 only - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-no-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-no-invariants-only"@en .
@@ -4701,7 +4701,7 @@ fdc:GFDL1.1noinvariantsorlater a skos:Concept;
 gdmt:GFDL1.1noinvariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.1noinvariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 or later - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 or later - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-no-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-no-invariants-or-later"@en .
@@ -4715,7 +4715,7 @@ fdc:GFDL1.1only a skos:Concept;
 gdmt:GFDL1.1only a skos:Concept;
   skos:exactMatch fdc:GFDL1.1only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 only"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-only"@en .
@@ -4729,7 +4729,7 @@ fdc:GFDL1.1orlater a skos:Concept;
 gdmt:GFDL1.1orlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.1orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.1 or later"@en;
+  skos:altLabel "GNU Free Documentation License v1.1 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.1-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.1-or-later"@en .
@@ -4743,7 +4743,7 @@ fdc:GFDL1.2invariantsonly a skos:Concept;
 gdmt:GFDL1.2invariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.2invariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 only - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 only - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-invariants-only"@en .
@@ -4757,7 +4757,7 @@ fdc:GFDL1.2invariantsorlater a skos:Concept;
 gdmt:GFDL1.2invariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.2invariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 or later - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 or later - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-invariants-or-later"@en .
@@ -4771,7 +4771,7 @@ fdc:GFDL1.2noinvariantsonly a skos:Concept;
 gdmt:GFDL1.2noinvariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.2noinvariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 only - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 only - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-no-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-no-invariants-only"@en .
@@ -4785,7 +4785,7 @@ fdc:GFDL1.2noinvariantsorlater a skos:Concept;
 gdmt:GFDL1.2noinvariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.2noinvariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 or later - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 or later - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-no-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-no-invariants-or-later"@en .
@@ -4799,7 +4799,7 @@ fdc:GFDL1.2only a skos:Concept;
 gdmt:GFDL1.2only a skos:Concept;
   skos:exactMatch fdc:GFDL1.2only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 only"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-only"@en .
@@ -4813,7 +4813,7 @@ fdc:GFDL1.2orlater a skos:Concept;
 gdmt:GFDL1.2orlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.2orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.2 or later"@en;
+  skos:altLabel "GNU Free Documentation License v1.2 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.2-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.2-or-later"@en .
@@ -4827,7 +4827,7 @@ fdc:GFDL1.3invariantsonly a skos:Concept;
 gdmt:GFDL1.3invariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.3invariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 only - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 only - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-invariants-only"@en .
@@ -4841,7 +4841,7 @@ fdc:GFDL1.3invariantsorlater a skos:Concept;
 gdmt:GFDL1.3invariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.3invariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 or later - invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 or later - invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-invariants-or-later"@en .
@@ -4855,7 +4855,7 @@ fdc:GFDL1.3noinvariantsonly a skos:Concept;
 gdmt:GFDL1.3noinvariantsonly a skos:Concept;
   skos:exactMatch fdc:GFDL1.3noinvariantsonly;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 only - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 only - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-no-invariants-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-no-invariants-only"@en .
@@ -4869,7 +4869,7 @@ fdc:GFDL1.3noinvariantsorlater a skos:Concept;
 gdmt:GFDL1.3noinvariantsorlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.3noinvariantsorlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 or later - no invariants"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 or later - no invariants"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-no-invariants-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-no-invariants-or-later"@en .
@@ -4883,7 +4883,7 @@ fdc:GFDL1.3only a skos:Concept;
 gdmt:GFDL1.3only a skos:Concept;
   skos:exactMatch fdc:GFDL1.3only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 only"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-only"@en .
@@ -4897,7 +4897,7 @@ fdc:GFDL1.3orlater a skos:Concept;
 gdmt:GFDL1.3orlater a skos:Concept;
   skos:exactMatch fdc:GFDL1.3orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Free Documentation License v1.3 or later"@en;
+  skos:altLabel "GNU Free Documentation License v1.3 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GFDL-1.3-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GFDL-1.3-or-later"@en .
@@ -4911,7 +4911,7 @@ fdc:Giftware a skos:Concept;
 gdmt:Giftware a skos:Concept;
   skos:exactMatch fdc:Giftware;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Giftware License"@en;
+  skos:altLabel "Giftware License"@en;
   skos:exactMatch <https://spdx.org/licenses/Giftware>;
   skos:inScheme scheme:;
   skos:prefLabel "Giftware"@en .
@@ -4925,7 +4925,7 @@ fdc:GL2PS a skos:Concept;
 gdmt:GL2PS a skos:Concept;
   skos:exactMatch fdc:GL2PS;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GL2PS License"@en;
+  skos:altLabel "GL2PS License"@en;
   skos:exactMatch <https://spdx.org/licenses/GL2PS>;
   skos:inScheme scheme:;
   skos:prefLabel "GL2PS"@en .
@@ -4939,7 +4939,7 @@ fdc:Glide a skos:Concept;
 gdmt:Glide a skos:Concept;
   skos:exactMatch fdc:Glide;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "3dfx Glide License"@en;
+  skos:altLabel "3dfx Glide License"@en;
   skos:exactMatch <https://spdx.org/licenses/Glide>;
   skos:inScheme scheme:;
   skos:prefLabel "Glide"@en .
@@ -4953,7 +4953,7 @@ fdc:Glulxe a skos:Concept;
 gdmt:Glulxe a skos:Concept;
   skos:exactMatch fdc:Glulxe;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Glulxe License"@en;
+  skos:altLabel "Glulxe License"@en;
   skos:exactMatch <https://spdx.org/licenses/Glulxe>;
   skos:inScheme scheme:;
   skos:prefLabel "Glulxe"@en .
@@ -4967,7 +4967,7 @@ fdc:GLWTPL a skos:Concept;
 gdmt:GLWTPL a skos:Concept;
   skos:exactMatch fdc:GLWTPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Good Luck With That Public License"@en;
+  skos:altLabel "Good Luck With That Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/GLWTPL>;
   skos:inScheme scheme:;
   skos:prefLabel "GLWTPL"@en .
@@ -4981,7 +4981,7 @@ fdc:gnuplot a skos:Concept;
 gdmt:gnuplot a skos:Concept;
   skos:exactMatch fdc:gnuplot;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "gnuplot License"@en;
+  skos:altLabel "gnuplot License"@en;
   skos:exactMatch <https://spdx.org/licenses/gnuplot>;
   skos:inScheme scheme:;
   skos:prefLabel "gnuplot"@en .
@@ -4995,7 +4995,7 @@ fdc:GPL1.0only a skos:Concept;
 gdmt:GPL1.0only a skos:Concept;
   skos:exactMatch fdc:GPL1.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v1.0 only"@en;
+  skos:altLabel "GNU General Public License v1.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-1.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-1.0-only"@en .
@@ -5009,7 +5009,7 @@ fdc:GPL1.0orlater a skos:Concept;
 gdmt:GPL1.0orlater a skos:Concept;
   skos:exactMatch fdc:GPL1.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v1.0 or later"@en;
+  skos:altLabel "GNU General Public License v1.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-1.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-1.0-or-later"@en .
@@ -5023,7 +5023,7 @@ fdc:GPL2.0only a skos:Concept;
 gdmt:GPL2.0only a skos:Concept;
   skos:exactMatch fdc:GPL2.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v2.0 only"@en;
+  skos:altLabel "GNU General Public License v2.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-2.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-2.0-only"@en .
@@ -5037,7 +5037,7 @@ fdc:GPL2.0orlater a skos:Concept;
 gdmt:GPL2.0orlater a skos:Concept;
   skos:exactMatch fdc:GPL2.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v2.0 or later"@en;
+  skos:altLabel "GNU General Public License v2.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-2.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-2.0-or-later"@en .
@@ -5051,7 +5051,7 @@ fdc:GPL3.0only a skos:Concept;
 gdmt:GPL3.0only a skos:Concept;
   skos:exactMatch fdc:GPL3.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v3.0 only"@en;
+  skos:altLabel "GNU General Public License v3.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-3.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-3.0-only"@en .
@@ -5065,7 +5065,7 @@ fdc:GPL3.0orlater a skos:Concept;
 gdmt:GPL3.0orlater a skos:Concept;
   skos:exactMatch fdc:GPL3.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU General Public License v3.0 or later"@en;
+  skos:altLabel "GNU General Public License v3.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/GPL-3.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "GPL-3.0-or-later"@en .
@@ -5079,7 +5079,7 @@ fdc:gSOAP1.3b a skos:Concept;
 gdmt:gSOAP1.3b a skos:Concept;
   skos:exactMatch fdc:gSOAP1.3b;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "gSOAP Public License v1.3b"@en;
+  skos:altLabel "gSOAP Public License v1.3b"@en;
   skos:exactMatch <https://spdx.org/licenses/gSOAP-1.3b>;
   skos:inScheme scheme:;
   skos:prefLabel "gSOAP-1.3b"@en .
@@ -5093,7 +5093,7 @@ fdc:HaskellReport a skos:Concept;
 gdmt:HaskellReport a skos:Concept;
   skos:exactMatch fdc:HaskellReport;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Haskell Language Report License"@en;
+  skos:altLabel "Haskell Language Report License"@en;
   skos:exactMatch <https://spdx.org/licenses/HaskellReport>;
   skos:inScheme scheme:;
   skos:prefLabel "HaskellReport"@en .
@@ -5107,7 +5107,7 @@ fdc:Hippocratic2.1 a skos:Concept;
 gdmt:Hippocratic2.1 a skos:Concept;
   skos:exactMatch fdc:Hippocratic2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Hippocratic License 2.1"@en;
+  skos:altLabel "Hippocratic License 2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/Hippocratic-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "Hippocratic-2.1"@en .
@@ -5121,7 +5121,7 @@ fdc:HPND a skos:Concept;
 gdmt:HPND a skos:Concept;
   skos:exactMatch fdc:HPND;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Historical Permission Notice and Disclaimer"@en;
+  skos:altLabel "Historical Permission Notice and Disclaimer"@en;
   skos:exactMatch <https://spdx.org/licenses/HPND>;
   skos:inScheme scheme:;
   skos:prefLabel "HPND"@en .
@@ -5135,7 +5135,7 @@ fdc:HPNDsellvariant a skos:Concept;
 gdmt:HPNDsellvariant a skos:Concept;
   skos:exactMatch fdc:HPNDsellvariant;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Historical Permission Notice and Disclaimer - sell variant"@en;
+  skos:altLabel "Historical Permission Notice and Disclaimer - sell variant"@en;
   skos:exactMatch <https://spdx.org/licenses/HPND-sell-variant>;
   skos:inScheme scheme:;
   skos:prefLabel "HPND-sell-variant"@en .
@@ -5149,7 +5149,7 @@ fdc:HTMLTIDY a skos:Concept;
 gdmt:HTMLTIDY a skos:Concept;
   skos:exactMatch fdc:HTMLTIDY;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "HTML Tidy License"@en;
+  skos:altLabel "HTML Tidy License"@en;
   skos:exactMatch <https://spdx.org/licenses/HTMLTIDY>;
   skos:inScheme scheme:;
   skos:prefLabel "HTMLTIDY"@en .
@@ -5163,7 +5163,7 @@ fdc:IBMpibs a skos:Concept;
 gdmt:IBMpibs a skos:Concept;
   skos:exactMatch fdc:IBMpibs;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "IBM PowerPC Initialization and Boot Software"@en;
+  skos:altLabel "IBM PowerPC Initialization and Boot Software"@en;
   skos:exactMatch <https://spdx.org/licenses/IBM-pibs>;
   skos:inScheme scheme:;
   skos:prefLabel "IBM-pibs"@en .
@@ -5177,7 +5177,7 @@ fdc:ICU a skos:Concept;
 gdmt:ICU a skos:Concept;
   skos:exactMatch fdc:ICU;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ICU License"@en;
+  skos:altLabel "ICU License"@en;
   skos:exactMatch <https://spdx.org/licenses/ICU>;
   skos:inScheme scheme:;
   skos:prefLabel "ICU"@en .
@@ -5191,7 +5191,7 @@ fdc:IJG a skos:Concept;
 gdmt:IJG a skos:Concept;
   skos:exactMatch fdc:IJG;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Independent JPEG Group License"@en;
+  skos:altLabel "Independent JPEG Group License"@en;
   skos:exactMatch <https://spdx.org/licenses/IJG>;
   skos:inScheme scheme:;
   skos:prefLabel "IJG"@en .
@@ -5205,7 +5205,7 @@ fdc:ImageMagick a skos:Concept;
 gdmt:ImageMagick a skos:Concept;
   skos:exactMatch fdc:ImageMagick;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ImageMagick License"@en;
+  skos:altLabel "ImageMagick License"@en;
   skos:exactMatch <https://spdx.org/licenses/ImageMagick>;
   skos:inScheme scheme:;
   skos:prefLabel "ImageMagick"@en .
@@ -5219,7 +5219,7 @@ fdc:iMatix a skos:Concept;
 gdmt:iMatix a skos:Concept;
   skos:exactMatch fdc:iMatix;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "iMatix Standard Function Library Agreement"@en;
+  skos:altLabel "iMatix Standard Function Library Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/iMatix>;
   skos:inScheme scheme:;
   skos:prefLabel "iMatix"@en .
@@ -5233,7 +5233,7 @@ fdc:Imlib2 a skos:Concept;
 gdmt:Imlib2 a skos:Concept;
   skos:exactMatch fdc:Imlib2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Imlib2 License"@en;
+  skos:altLabel "Imlib2 License"@en;
   skos:exactMatch <https://spdx.org/licenses/Imlib2>;
   skos:inScheme scheme:;
   skos:prefLabel "Imlib2"@en .
@@ -5247,7 +5247,7 @@ fdc:InfoZIP a skos:Concept;
 gdmt:InfoZIP a skos:Concept;
   skos:exactMatch fdc:InfoZIP;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Info-ZIP License"@en;
+  skos:altLabel "Info-ZIP License"@en;
   skos:exactMatch <https://spdx.org/licenses/Info-ZIP>;
   skos:inScheme scheme:;
   skos:prefLabel "Info-ZIP"@en .
@@ -5261,7 +5261,7 @@ fdc:Intel a skos:Concept;
 gdmt:Intel a skos:Concept;
   skos:exactMatch fdc:Intel;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Intel Open Source License"@en;
+  skos:altLabel "Intel Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/Intel>;
   skos:inScheme scheme:;
   skos:prefLabel "Intel"@en .
@@ -5275,7 +5275,7 @@ fdc:IntelACPI a skos:Concept;
 gdmt:IntelACPI a skos:Concept;
   skos:exactMatch fdc:IntelACPI;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Intel ACPI Software License Agreement"@en;
+  skos:altLabel "Intel ACPI Software License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/Intel-ACPI>;
   skos:inScheme scheme:;
   skos:prefLabel "Intel-ACPI"@en .
@@ -5289,7 +5289,7 @@ fdc:Interbase1.0 a skos:Concept;
 gdmt:Interbase1.0 a skos:Concept;
   skos:exactMatch fdc:Interbase1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Interbase Public License v1.0"@en;
+  skos:altLabel "Interbase Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Interbase-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Interbase-1.0"@en .
@@ -5303,7 +5303,7 @@ fdc:IPA a skos:Concept;
 gdmt:IPA a skos:Concept;
   skos:exactMatch fdc:IPA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "IPA Font License"@en;
+  skos:altLabel "IPA Font License"@en;
   skos:exactMatch <https://spdx.org/licenses/IPA>;
   skos:inScheme scheme:;
   skos:prefLabel "IPA"@en .
@@ -5317,7 +5317,7 @@ fdc:IPL1.0 a skos:Concept;
 gdmt:IPL1.0 a skos:Concept;
   skos:exactMatch fdc:IPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "IBM Public License v1.0"@en;
+  skos:altLabel "IBM Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/IPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "IPL-1.0"@en .
@@ -5331,7 +5331,7 @@ fdc:ISC a skos:Concept;
 gdmt:ISC a skos:Concept;
   skos:exactMatch fdc:ISC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ISC License"@en;
+  skos:altLabel "ISC License"@en;
   skos:exactMatch <https://spdx.org/licenses/ISC>;
   skos:inScheme scheme:;
   skos:prefLabel "ISC"@en .
@@ -5345,7 +5345,7 @@ fdc:JasPer2.0 a skos:Concept;
 gdmt:JasPer2.0 a skos:Concept;
   skos:exactMatch fdc:JasPer2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "JasPer License"@en;
+  skos:altLabel "JasPer License"@en;
   skos:exactMatch <https://spdx.org/licenses/JasPer-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "JasPer-2.0"@en .
@@ -5359,7 +5359,7 @@ fdc:JPNIC a skos:Concept;
 gdmt:JPNIC a skos:Concept;
   skos:exactMatch fdc:JPNIC;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Japan Network Information Center License"@en;
+  skos:altLabel "Japan Network Information Center License"@en;
   skos:exactMatch <https://spdx.org/licenses/JPNIC>;
   skos:inScheme scheme:;
   skos:prefLabel "JPNIC"@en .
@@ -5373,7 +5373,7 @@ fdc:JSON a skos:Concept;
 gdmt:JSON a skos:Concept;
   skos:exactMatch fdc:JSON;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "JSON License"@en;
+  skos:altLabel "JSON License"@en;
   skos:exactMatch <https://spdx.org/licenses/JSON>;
   skos:inScheme scheme:;
   skos:prefLabel "JSON"@en .
@@ -5387,7 +5387,7 @@ fdc:LAL1.2 a skos:Concept;
 gdmt:LAL1.2 a skos:Concept;
   skos:exactMatch fdc:LAL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Licence Art Libre 1.2"@en;
+  skos:altLabel "Licence Art Libre 1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/LAL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "LAL-1.2"@en .
@@ -5401,7 +5401,7 @@ fdc:LAL1.3 a skos:Concept;
 gdmt:LAL1.3 a skos:Concept;
   skos:exactMatch fdc:LAL1.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Licence Art Libre 1.3"@en;
+  skos:altLabel "Licence Art Libre 1.3"@en;
   skos:exactMatch <https://spdx.org/licenses/LAL-1.3>;
   skos:inScheme scheme:;
   skos:prefLabel "LAL-1.3"@en .
@@ -5415,7 +5415,7 @@ fdc:Latex2e a skos:Concept;
 gdmt:Latex2e a skos:Concept;
   skos:exactMatch fdc:Latex2e;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Latex2e License"@en;
+  skos:altLabel "Latex2e License"@en;
   skos:exactMatch <https://spdx.org/licenses/Latex2e>;
   skos:inScheme scheme:;
   skos:prefLabel "Latex2e"@en .
@@ -5429,7 +5429,7 @@ fdc:Leptonica a skos:Concept;
 gdmt:Leptonica a skos:Concept;
   skos:exactMatch fdc:Leptonica;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Leptonica License"@en;
+  skos:altLabel "Leptonica License"@en;
   skos:exactMatch <https://spdx.org/licenses/Leptonica>;
   skos:inScheme scheme:;
   skos:prefLabel "Leptonica"@en .
@@ -5443,7 +5443,7 @@ fdc:LGPL2.0only a skos:Concept;
 gdmt:LGPL2.0only a skos:Concept;
   skos:exactMatch fdc:LGPL2.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Library General Public License v2 only"@en;
+  skos:altLabel "GNU Library General Public License v2 only"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-2.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-2.0-only"@en .
@@ -5457,7 +5457,7 @@ fdc:LGPL2.0orlater a skos:Concept;
 gdmt:LGPL2.0orlater a skos:Concept;
   skos:exactMatch fdc:LGPL2.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Library General Public License v2 or later"@en;
+  skos:altLabel "GNU Library General Public License v2 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-2.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-2.0-or-later"@en .
@@ -5471,7 +5471,7 @@ fdc:LGPL2.1only a skos:Concept;
 gdmt:LGPL2.1only a skos:Concept;
   skos:exactMatch fdc:LGPL2.1only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Lesser General Public License v2.1 only"@en;
+  skos:altLabel "GNU Lesser General Public License v2.1 only"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-2.1-only>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-2.1-only"@en .
@@ -5485,7 +5485,7 @@ fdc:LGPL2.1orlater a skos:Concept;
 gdmt:LGPL2.1orlater a skos:Concept;
   skos:exactMatch fdc:LGPL2.1orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Lesser General Public License v2.1 or later"@en;
+  skos:altLabel "GNU Lesser General Public License v2.1 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-2.1-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-2.1-or-later"@en .
@@ -5499,7 +5499,7 @@ fdc:LGPL3.0only a skos:Concept;
 gdmt:LGPL3.0only a skos:Concept;
   skos:exactMatch fdc:LGPL3.0only;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Lesser General Public License v3.0 only"@en;
+  skos:altLabel "GNU Lesser General Public License v3.0 only"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-3.0-only>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-3.0-only"@en .
@@ -5513,7 +5513,7 @@ fdc:LGPL3.0orlater a skos:Concept;
 gdmt:LGPL3.0orlater a skos:Concept;
   skos:exactMatch fdc:LGPL3.0orlater;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "GNU Lesser General Public License v3.0 or later"@en;
+  skos:altLabel "GNU Lesser General Public License v3.0 or later"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPL-3.0-or-later>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPL-3.0-or-later"@en .
@@ -5527,7 +5527,7 @@ fdc:LGPLLR a skos:Concept;
 gdmt:LGPLLR a skos:Concept;
   skos:exactMatch fdc:LGPLLR;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Lesser General Public License For Linguistic Resources"@en;
+  skos:altLabel "Lesser General Public License For Linguistic Resources"@en;
   skos:exactMatch <https://spdx.org/licenses/LGPLLR>;
   skos:inScheme scheme:;
   skos:prefLabel "LGPLLR"@en .
@@ -5541,7 +5541,7 @@ fdc:Libpng a skos:Concept;
 gdmt:Libpng a skos:Concept;
   skos:exactMatch fdc:Libpng;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "libpng License"@en;
+  skos:altLabel "libpng License"@en;
   skos:exactMatch <https://spdx.org/licenses/Libpng>;
   skos:inScheme scheme:;
   skos:prefLabel "Libpng"@en .
@@ -5555,7 +5555,7 @@ fdc:libpng2.0 a skos:Concept;
 gdmt:libpng2.0 a skos:Concept;
   skos:exactMatch fdc:libpng2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PNG Reference Library version 2"@en;
+  skos:altLabel "PNG Reference Library version 2"@en;
   skos:exactMatch <https://spdx.org/licenses/libpng-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "libpng-2.0"@en .
@@ -5569,7 +5569,7 @@ fdc:libselinux1.0 a skos:Concept;
 gdmt:libselinux1.0 a skos:Concept;
   skos:exactMatch fdc:libselinux1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "libselinux public domain notice"@en;
+  skos:altLabel "libselinux public domain notice"@en;
   skos:exactMatch <https://spdx.org/licenses/libselinux-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "libselinux-1.0"@en .
@@ -5583,7 +5583,7 @@ fdc:libtiff a skos:Concept;
 gdmt:libtiff a skos:Concept;
   skos:exactMatch fdc:libtiff;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "libtiff License"@en;
+  skos:altLabel "libtiff License"@en;
   skos:exactMatch <https://spdx.org/licenses/libtiff>;
   skos:inScheme scheme:;
   skos:prefLabel "libtiff"@en .
@@ -5597,7 +5597,7 @@ fdc:LiLiQP1.1 a skos:Concept;
 gdmt:LiLiQP1.1 a skos:Concept;
   skos:exactMatch fdc:LiLiQP1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Licence Libre du Québec – Permissive version 1.1"@en;
+  skos:altLabel "Licence Libre du Québec – Permissive version 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/LiLiQ-P-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "LiLiQ-P-1.1"@en .
@@ -5611,7 +5611,7 @@ fdc:LiLiQR1.1 a skos:Concept;
 gdmt:LiLiQR1.1 a skos:Concept;
   skos:exactMatch fdc:LiLiQR1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Licence Libre du Québec – Réciprocité version 1.1"@en;
+  skos:altLabel "Licence Libre du Québec – Réciprocité version 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/LiLiQ-R-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "LiLiQ-R-1.1"@en .
@@ -5625,7 +5625,7 @@ fdc:LiLiQRplus1.1 a skos:Concept;
 gdmt:LiLiQRplus1.1 a skos:Concept;
   skos:exactMatch fdc:LiLiQRplus1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Licence Libre du Québec – Réciprocité forte version 1.1"@en;
+  skos:altLabel "Licence Libre du Québec – Réciprocité forte version 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/LiLiQ-Rplus-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "LiLiQ-Rplus-1.1"@en .
@@ -5639,7 +5639,7 @@ fdc:LinuxOpenIB a skos:Concept;
 gdmt:LinuxOpenIB a skos:Concept;
   skos:exactMatch fdc:LinuxOpenIB;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Linux Kernel Variant of OpenIB.org license"@en;
+  skos:altLabel "Linux Kernel Variant of OpenIB.org license"@en;
   skos:exactMatch <https://spdx.org/licenses/Linux-OpenIB>;
   skos:inScheme scheme:;
   skos:prefLabel "Linux-OpenIB"@en .
@@ -5653,7 +5653,7 @@ fdc:LPL1.0 a skos:Concept;
 gdmt:LPL1.0 a skos:Concept;
   skos:exactMatch fdc:LPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Lucent Public License Version 1.0"@en;
+  skos:altLabel "Lucent Public License Version 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/LPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "LPL-1.0"@en .
@@ -5667,7 +5667,7 @@ fdc:LPL1.02 a skos:Concept;
 gdmt:LPL1.02 a skos:Concept;
   skos:exactMatch fdc:LPL1.02;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Lucent Public License v1.02"@en;
+  skos:altLabel "Lucent Public License v1.02"@en;
   skos:exactMatch <https://spdx.org/licenses/LPL-1.02>;
   skos:inScheme scheme:;
   skos:prefLabel "LPL-1.02"@en .
@@ -5681,7 +5681,7 @@ fdc:LPPL1.0 a skos:Concept;
 gdmt:LPPL1.0 a skos:Concept;
   skos:exactMatch fdc:LPPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "LaTeX Project Public License v1.0"@en;
+  skos:altLabel "LaTeX Project Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/LPPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "LPPL-1.0"@en .
@@ -5695,7 +5695,7 @@ fdc:LPPL1.1 a skos:Concept;
 gdmt:LPPL1.1 a skos:Concept;
   skos:exactMatch fdc:LPPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "LaTeX Project Public License v1.1"@en;
+  skos:altLabel "LaTeX Project Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/LPPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "LPPL-1.1"@en .
@@ -5709,7 +5709,7 @@ fdc:LPPL1.2 a skos:Concept;
 gdmt:LPPL1.2 a skos:Concept;
   skos:exactMatch fdc:LPPL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "LaTeX Project Public License v1.2"@en;
+  skos:altLabel "LaTeX Project Public License v1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/LPPL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "LPPL-1.2"@en .
@@ -5723,7 +5723,7 @@ fdc:LPPL1.3a a skos:Concept;
 gdmt:LPPL1.3a a skos:Concept;
   skos:exactMatch fdc:LPPL1.3a;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "LaTeX Project Public License v1.3a"@en;
+  skos:altLabel "LaTeX Project Public License v1.3a"@en;
   skos:exactMatch <https://spdx.org/licenses/LPPL-1.3a>;
   skos:inScheme scheme:;
   skos:prefLabel "LPPL-1.3a"@en .
@@ -5737,7 +5737,7 @@ fdc:LPPL1.3c a skos:Concept;
 gdmt:LPPL1.3c a skos:Concept;
   skos:exactMatch fdc:LPPL1.3c;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "LaTeX Project Public License v1.3c"@en;
+  skos:altLabel "LaTeX Project Public License v1.3c"@en;
   skos:exactMatch <https://spdx.org/licenses/LPPL-1.3c>;
   skos:inScheme scheme:;
   skos:prefLabel "LPPL-1.3c"@en .
@@ -5751,7 +5751,7 @@ fdc:MakeIndex a skos:Concept;
 gdmt:MakeIndex a skos:Concept;
   skos:exactMatch fdc:MakeIndex;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "MakeIndex License"@en;
+  skos:altLabel "MakeIndex License"@en;
   skos:exactMatch <https://spdx.org/licenses/MakeIndex>;
   skos:inScheme scheme:;
   skos:prefLabel "MakeIndex"@en .
@@ -5765,7 +5765,7 @@ fdc:MirOS a skos:Concept;
 gdmt:MirOS a skos:Concept;
   skos:exactMatch fdc:MirOS;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "The MirOS Licence"@en;
+  skos:altLabel "The MirOS Licence"@en;
   skos:exactMatch <https://spdx.org/licenses/MirOS>;
   skos:inScheme scheme:;
   skos:prefLabel "MirOS"@en .
@@ -5779,7 +5779,7 @@ fdc:MIT a skos:Concept;
 gdmt:MIT a skos:Concept;
   skos:exactMatch fdc:MIT;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "MIT License"@en;
+  skos:altLabel "MIT License"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT"@en .
@@ -5793,7 +5793,7 @@ fdc:MIT0 a skos:Concept;
 gdmt:MIT0 a skos:Concept;
   skos:exactMatch fdc:MIT0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "MIT No Attribution"@en;
+  skos:altLabel "MIT No Attribution"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-0>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-0"@en .
@@ -5807,7 +5807,7 @@ fdc:MITadvertising a skos:Concept;
 gdmt:MITadvertising a skos:Concept;
   skos:exactMatch fdc:MITadvertising;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Enlightenment License (e16)"@en;
+  skos:altLabel "Enlightenment License (e16)"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-advertising>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-advertising"@en .
@@ -5821,7 +5821,7 @@ fdc:MITCMU a skos:Concept;
 gdmt:MITCMU a skos:Concept;
   skos:exactMatch fdc:MITCMU;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "CMU License"@en;
+  skos:altLabel "CMU License"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-CMU>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-CMU"@en .
@@ -5835,7 +5835,7 @@ fdc:MITenna a skos:Concept;
 gdmt:MITenna a skos:Concept;
   skos:exactMatch fdc:MITenna;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "enna License"@en;
+  skos:altLabel "enna License"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-enna>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-enna"@en .
@@ -5849,7 +5849,7 @@ fdc:MITfeh a skos:Concept;
 gdmt:MITfeh a skos:Concept;
   skos:exactMatch fdc:MITfeh;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "feh License"@en;
+  skos:altLabel "feh License"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-feh>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-feh"@en .
@@ -5863,7 +5863,7 @@ fdc:MITopengroup a skos:Concept;
 gdmt:MITopengroup a skos:Concept;
   skos:exactMatch fdc:MITopengroup;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "MIT Open Group variant"@en;
+  skos:altLabel "MIT Open Group variant"@en;
   skos:exactMatch <https://spdx.org/licenses/MIT-open-group>;
   skos:inScheme scheme:;
   skos:prefLabel "MIT-open-group"@en .
@@ -5877,7 +5877,7 @@ fdc:MITNFA a skos:Concept;
 gdmt:MITNFA a skos:Concept;
   skos:exactMatch fdc:MITNFA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "MIT +no-false-attribs license"@en;
+  skos:altLabel "MIT +no-false-attribs license"@en;
   skos:exactMatch <https://spdx.org/licenses/MITNFA>;
   skos:inScheme scheme:;
   skos:prefLabel "MITNFA"@en .
@@ -5891,7 +5891,7 @@ fdc:Motosoto a skos:Concept;
 gdmt:Motosoto a skos:Concept;
   skos:exactMatch fdc:Motosoto;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Motosoto License"@en;
+  skos:altLabel "Motosoto License"@en;
   skos:exactMatch <https://spdx.org/licenses/Motosoto>;
   skos:inScheme scheme:;
   skos:prefLabel "Motosoto"@en .
@@ -5905,7 +5905,7 @@ fdc:mpich2 a skos:Concept;
 gdmt:mpich2 a skos:Concept;
   skos:exactMatch fdc:mpich2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "mpich2 License"@en;
+  skos:altLabel "mpich2 License"@en;
   skos:exactMatch <https://spdx.org/licenses/mpich2>;
   skos:inScheme scheme:;
   skos:prefLabel "mpich2"@en .
@@ -5919,7 +5919,7 @@ fdc:MPL1.0 a skos:Concept;
 gdmt:MPL1.0 a skos:Concept;
   skos:exactMatch fdc:MPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mozilla Public License 1.0"@en;
+  skos:altLabel "Mozilla Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/MPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "MPL-1.0"@en .
@@ -5933,7 +5933,7 @@ fdc:MPL1.1 a skos:Concept;
 gdmt:MPL1.1 a skos:Concept;
   skos:exactMatch fdc:MPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mozilla Public License 1.1"@en;
+  skos:altLabel "Mozilla Public License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/MPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "MPL-1.1"@en .
@@ -5947,7 +5947,7 @@ fdc:MPL2.0 a skos:Concept;
 gdmt:MPL2.0 a skos:Concept;
   skos:exactMatch fdc:MPL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mozilla Public License 2.0"@en;
+  skos:altLabel "Mozilla Public License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/MPL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "MPL-2.0"@en .
@@ -5961,7 +5961,7 @@ fdc:MPL2.0nocopyleftexception a skos:Concept;
 gdmt:MPL2.0nocopyleftexception a skos:Concept;
   skos:exactMatch fdc:MPL2.0nocopyleftexception;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mozilla Public License 2.0 (no copyleft exception)"@en;
+  skos:altLabel "Mozilla Public License 2.0 (no copyleft exception)"@en;
   skos:exactMatch <https://spdx.org/licenses/MPL-2.0-no-copyleft-exception>;
   skos:inScheme scheme:;
   skos:prefLabel "MPL-2.0-no-copyleft-exception"@en .
@@ -5975,7 +5975,7 @@ fdc:MSPL a skos:Concept;
 gdmt:MSPL a skos:Concept;
   skos:exactMatch fdc:MSPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Microsoft Public License"@en;
+  skos:altLabel "Microsoft Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/MS-PL>;
   skos:inScheme scheme:;
   skos:prefLabel "MS-PL"@en .
@@ -5989,7 +5989,7 @@ fdc:MSRL a skos:Concept;
 gdmt:MSRL a skos:Concept;
   skos:exactMatch fdc:MSRL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Microsoft Reciprocal License"@en;
+  skos:altLabel "Microsoft Reciprocal License"@en;
   skos:exactMatch <https://spdx.org/licenses/MS-RL>;
   skos:inScheme scheme:;
   skos:prefLabel "MS-RL"@en .
@@ -6003,7 +6003,7 @@ fdc:MTLL a skos:Concept;
 gdmt:MTLL a skos:Concept;
   skos:exactMatch fdc:MTLL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Matrix Template Library License"@en;
+  skos:altLabel "Matrix Template Library License"@en;
   skos:exactMatch <https://spdx.org/licenses/MTLL>;
   skos:inScheme scheme:;
   skos:prefLabel "MTLL"@en .
@@ -6017,7 +6017,7 @@ fdc:MulanPSL1.0 a skos:Concept;
 gdmt:MulanPSL1.0 a skos:Concept;
   skos:exactMatch fdc:MulanPSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mulan Permissive Software License, Version 1"@en;
+  skos:altLabel "Mulan Permissive Software License, Version 1"@en;
   skos:exactMatch <https://spdx.org/licenses/MulanPSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "MulanPSL-1.0"@en .
@@ -6031,7 +6031,7 @@ fdc:MulanPSL2.0 a skos:Concept;
 gdmt:MulanPSL2.0 a skos:Concept;
   skos:exactMatch fdc:MulanPSL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mulan Permissive Software License, Version 2"@en;
+  skos:altLabel "Mulan Permissive Software License, Version 2"@en;
   skos:exactMatch <https://spdx.org/licenses/MulanPSL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "MulanPSL-2.0"@en .
@@ -6045,7 +6045,7 @@ fdc:Multics a skos:Concept;
 gdmt:Multics a skos:Concept;
   skos:exactMatch fdc:Multics;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Multics License"@en;
+  skos:altLabel "Multics License"@en;
   skos:exactMatch <https://spdx.org/licenses/Multics>;
   skos:inScheme scheme:;
   skos:prefLabel "Multics"@en .
@@ -6059,7 +6059,7 @@ fdc:Mup a skos:Concept;
 gdmt:Mup a skos:Concept;
   skos:exactMatch fdc:Mup;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Mup License"@en;
+  skos:altLabel "Mup License"@en;
   skos:exactMatch <https://spdx.org/licenses/Mup>;
   skos:inScheme scheme:;
   skos:prefLabel "Mup"@en .
@@ -6073,7 +6073,7 @@ fdc:NASA1.3 a skos:Concept;
 gdmt:NASA1.3 a skos:Concept;
   skos:exactMatch fdc:NASA1.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NASA Open Source Agreement 1.3"@en;
+  skos:altLabel "NASA Open Source Agreement 1.3"@en;
   skos:exactMatch <https://spdx.org/licenses/NASA-1.3>;
   skos:inScheme scheme:;
   skos:prefLabel "NASA-1.3"@en .
@@ -6087,7 +6087,7 @@ fdc:Naumen a skos:Concept;
 gdmt:Naumen a skos:Concept;
   skos:exactMatch fdc:Naumen;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Naumen Public License"@en;
+  skos:altLabel "Naumen Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/Naumen>;
   skos:inScheme scheme:;
   skos:prefLabel "Naumen"@en .
@@ -6101,7 +6101,7 @@ fdc:NBPL1.0 a skos:Concept;
 gdmt:NBPL1.0 a skos:Concept;
   skos:exactMatch fdc:NBPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Net Boolean Public License v1"@en;
+  skos:altLabel "Net Boolean Public License v1"@en;
   skos:exactMatch <https://spdx.org/licenses/NBPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "NBPL-1.0"@en .
@@ -6115,7 +6115,7 @@ fdc:NCGLUK2.0 a skos:Concept;
 gdmt:NCGLUK2.0 a skos:Concept;
   skos:exactMatch fdc:NCGLUK2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Non-Commercial Government Licence"@en;
+  skos:altLabel "Non-Commercial Government Licence"@en;
   skos:exactMatch <https://spdx.org/licenses/NCGL-UK-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "NCGL-UK-2.0"@en .
@@ -6129,7 +6129,7 @@ fdc:NCSA a skos:Concept;
 gdmt:NCSA a skos:Concept;
   skos:exactMatch fdc:NCSA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "University of Illinois/NCSA Open Source License"@en;
+  skos:altLabel "University of Illinois/NCSA Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/NCSA>;
   skos:inScheme scheme:;
   skos:prefLabel "NCSA"@en .
@@ -6143,7 +6143,7 @@ fdc:NetSNMP a skos:Concept;
 gdmt:NetSNMP a skos:Concept;
   skos:exactMatch fdc:NetSNMP;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Net-SNMP License"@en;
+  skos:altLabel "Net-SNMP License"@en;
   skos:exactMatch <https://spdx.org/licenses/Net-SNMP>;
   skos:inScheme scheme:;
   skos:prefLabel "Net-SNMP"@en .
@@ -6157,7 +6157,7 @@ fdc:NetCDF a skos:Concept;
 gdmt:NetCDF a skos:Concept;
   skos:exactMatch fdc:NetCDF;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NetCDF license"@en;
+  skos:altLabel "NetCDF license"@en;
   skos:exactMatch <https://spdx.org/licenses/NetCDF>;
   skos:inScheme scheme:;
   skos:prefLabel "NetCDF"@en .
@@ -6171,7 +6171,7 @@ fdc:Newsletr a skos:Concept;
 gdmt:Newsletr a skos:Concept;
   skos:exactMatch fdc:Newsletr;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Newsletr License"@en;
+  skos:altLabel "Newsletr License"@en;
   skos:exactMatch <https://spdx.org/licenses/Newsletr>;
   skos:inScheme scheme:;
   skos:prefLabel "Newsletr"@en .
@@ -6185,7 +6185,7 @@ fdc:NGPL a skos:Concept;
 gdmt:NGPL a skos:Concept;
   skos:exactMatch fdc:NGPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Nethack General Public License"@en;
+  skos:altLabel "Nethack General Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/NGPL>;
   skos:inScheme scheme:;
   skos:prefLabel "NGPL"@en .
@@ -6199,7 +6199,7 @@ fdc:NISTPD a skos:Concept;
 gdmt:NISTPD a skos:Concept;
   skos:exactMatch fdc:NISTPD;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NIST Public Domain Notice"@en;
+  skos:altLabel "NIST Public Domain Notice"@en;
   skos:exactMatch <https://spdx.org/licenses/NIST-PD>;
   skos:inScheme scheme:;
   skos:prefLabel "NIST-PD"@en .
@@ -6213,7 +6213,7 @@ fdc:NISTPDfallback a skos:Concept;
 gdmt:NISTPDfallback a skos:Concept;
   skos:exactMatch fdc:NISTPDfallback;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NIST Public Domain Notice with license fallback"@en;
+  skos:altLabel "NIST Public Domain Notice with license fallback"@en;
   skos:exactMatch <https://spdx.org/licenses/NIST-PD-fallback>;
   skos:inScheme scheme:;
   skos:prefLabel "NIST-PD-fallback"@en .
@@ -6227,7 +6227,7 @@ fdc:NLOD1.0 a skos:Concept;
 gdmt:NLOD1.0 a skos:Concept;
   skos:exactMatch fdc:NLOD1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Norwegian Licence for Open Government Data"@en;
+  skos:altLabel "Norwegian Licence for Open Government Data"@en;
   skos:exactMatch <https://spdx.org/licenses/NLOD-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "NLOD-1.0"@en .
@@ -6241,7 +6241,7 @@ fdc:NLPL a skos:Concept;
 gdmt:NLPL a skos:Concept;
   skos:exactMatch fdc:NLPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "No Limit Public License"@en;
+  skos:altLabel "No Limit Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/NLPL>;
   skos:inScheme scheme:;
   skos:prefLabel "NLPL"@en .
@@ -6255,7 +6255,7 @@ fdc:Nokia a skos:Concept;
 gdmt:Nokia a skos:Concept;
   skos:exactMatch fdc:Nokia;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Nokia Open Source License"@en;
+  skos:altLabel "Nokia Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/Nokia>;
   skos:inScheme scheme:;
   skos:prefLabel "Nokia"@en .
@@ -6269,7 +6269,7 @@ fdc:NOSL a skos:Concept;
 gdmt:NOSL a skos:Concept;
   skos:exactMatch fdc:NOSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Netizen Open Source License"@en;
+  skos:altLabel "Netizen Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/NOSL>;
   skos:inScheme scheme:;
   skos:prefLabel "NOSL"@en .
@@ -6283,7 +6283,7 @@ fdc:Noweb a skos:Concept;
 gdmt:Noweb a skos:Concept;
   skos:exactMatch fdc:Noweb;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Noweb License"@en;
+  skos:altLabel "Noweb License"@en;
   skos:exactMatch <https://spdx.org/licenses/Noweb>;
   skos:inScheme scheme:;
   skos:prefLabel "Noweb"@en .
@@ -6297,7 +6297,7 @@ fdc:NPL1.0 a skos:Concept;
 gdmt:NPL1.0 a skos:Concept;
   skos:exactMatch fdc:NPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Netscape Public License v1.0"@en;
+  skos:altLabel "Netscape Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/NPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "NPL-1.0"@en .
@@ -6311,7 +6311,7 @@ fdc:NPL1.1 a skos:Concept;
 gdmt:NPL1.1 a skos:Concept;
   skos:exactMatch fdc:NPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Netscape Public License v1.1"@en;
+  skos:altLabel "Netscape Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/NPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "NPL-1.1"@en .
@@ -6325,7 +6325,7 @@ fdc:NPOSL3.0 a skos:Concept;
 gdmt:NPOSL3.0 a skos:Concept;
   skos:exactMatch fdc:NPOSL3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Non-Profit Open Software License 3.0"@en;
+  skos:altLabel "Non-Profit Open Software License 3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/NPOSL-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "NPOSL-3.0"@en .
@@ -6339,7 +6339,7 @@ fdc:NRL a skos:Concept;
 gdmt:NRL a skos:Concept;
   skos:exactMatch fdc:NRL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NRL License"@en;
+  skos:altLabel "NRL License"@en;
   skos:exactMatch <https://spdx.org/licenses/NRL>;
   skos:inScheme scheme:;
   skos:prefLabel "NRL"@en .
@@ -6353,7 +6353,7 @@ fdc:NTP a skos:Concept;
 gdmt:NTP a skos:Concept;
   skos:exactMatch fdc:NTP;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NTP License"@en;
+  skos:altLabel "NTP License"@en;
   skos:exactMatch <https://spdx.org/licenses/NTP>;
   skos:inScheme scheme:;
   skos:prefLabel "NTP"@en .
@@ -6367,7 +6367,7 @@ fdc:NTP0 a skos:Concept;
 gdmt:NTP0 a skos:Concept;
   skos:exactMatch fdc:NTP0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "NTP No Attribution"@en;
+  skos:altLabel "NTP No Attribution"@en;
   skos:exactMatch <https://spdx.org/licenses/NTP-0>;
   skos:inScheme scheme:;
   skos:prefLabel "NTP-0"@en .
@@ -6381,7 +6381,7 @@ fdc:OUDA1.0 a skos:Concept;
 gdmt:OUDA1.0 a skos:Concept;
   skos:exactMatch fdc:OUDA1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Use of Data Agreement v1.0"@en;
+  skos:altLabel "Open Use of Data Agreement v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/O-UDA-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "O-UDA-1.0"@en .
@@ -6395,7 +6395,7 @@ fdc:OCCTPL a skos:Concept;
 gdmt:OCCTPL a skos:Concept;
   skos:exactMatch fdc:OCCTPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open CASCADE Technology Public License"@en;
+  skos:altLabel "Open CASCADE Technology Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/OCCT-PL>;
   skos:inScheme scheme:;
   skos:prefLabel "OCCT-PL"@en .
@@ -6409,7 +6409,7 @@ fdc:OCLC2.0 a skos:Concept;
 gdmt:OCLC2.0 a skos:Concept;
   skos:exactMatch fdc:OCLC2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "OCLC Research Public License 2.0"@en;
+  skos:altLabel "OCLC Research Public License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OCLC-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OCLC-2.0"@en .
@@ -6423,7 +6423,7 @@ fdc:ODbL1.0 a skos:Concept;
 gdmt:ODbL1.0 a skos:Concept;
   skos:exactMatch fdc:ODbL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ODC Open Database License v1.0"@en;
+  skos:altLabel "ODC Open Database License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/ODbL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "ODbL-1.0"@en .
@@ -6437,7 +6437,7 @@ fdc:ODCBy1.0 a skos:Concept;
 gdmt:ODCBy1.0 a skos:Concept;
   skos:exactMatch fdc:ODCBy1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Data Commons Attribution License v1.0"@en;
+  skos:altLabel "Open Data Commons Attribution License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/ODC-By-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "ODC-By-1.0"@en .
@@ -6451,7 +6451,7 @@ fdc:OFL1.0 a skos:Concept;
 gdmt:OFL1.0 a skos:Concept;
   skos:exactMatch fdc:OFL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.0"@en;
+  skos:altLabel "SIL Open Font License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.0"@en .
@@ -6465,7 +6465,7 @@ fdc:OFL1.0noRFN a skos:Concept;
 gdmt:OFL1.0noRFN a skos:Concept;
   skos:exactMatch fdc:OFL1.0noRFN;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.0 with no Reserved Font Name"@en;
+  skos:altLabel "SIL Open Font License 1.0 with no Reserved Font Name"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.0-no-RFN>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.0-no-RFN"@en .
@@ -6479,7 +6479,7 @@ fdc:OFL1.0RFN a skos:Concept;
 gdmt:OFL1.0RFN a skos:Concept;
   skos:exactMatch fdc:OFL1.0RFN;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.0 with Reserved Font Name"@en;
+  skos:altLabel "SIL Open Font License 1.0 with Reserved Font Name"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.0-RFN>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.0-RFN"@en .
@@ -6493,7 +6493,7 @@ fdc:OFL1.1 a skos:Concept;
 gdmt:OFL1.1 a skos:Concept;
   skos:exactMatch fdc:OFL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.1"@en;
+  skos:altLabel "SIL Open Font License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.1"@en .
@@ -6507,7 +6507,7 @@ fdc:OFL1.1noRFN a skos:Concept;
 gdmt:OFL1.1noRFN a skos:Concept;
   skos:exactMatch fdc:OFL1.1noRFN;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.1 with no Reserved Font Name"@en;
+  skos:altLabel "SIL Open Font License 1.1 with no Reserved Font Name"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.1-no-RFN>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.1-no-RFN"@en .
@@ -6521,7 +6521,7 @@ fdc:OFL1.1RFN a skos:Concept;
 gdmt:OFL1.1RFN a skos:Concept;
   skos:exactMatch fdc:OFL1.1RFN;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SIL Open Font License 1.1 with Reserved Font Name"@en;
+  skos:altLabel "SIL Open Font License 1.1 with Reserved Font Name"@en;
   skos:exactMatch <https://spdx.org/licenses/OFL-1.1-RFN>;
   skos:inScheme scheme:;
   skos:prefLabel "OFL-1.1-RFN"@en .
@@ -6535,7 +6535,7 @@ fdc:OGC1.0 a skos:Concept;
 gdmt:OGC1.0 a skos:Concept;
   skos:exactMatch fdc:OGC1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "OGC Software License, Version 1.0"@en;
+  skos:altLabel "OGC Software License, Version 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OGC-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OGC-1.0"@en .
@@ -6549,7 +6549,7 @@ fdc:OGLCanada2.0 a skos:Concept;
 gdmt:OGLCanada2.0 a skos:Concept;
   skos:exactMatch fdc:OGLCanada2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Government Licence - Canada"@en;
+  skos:altLabel "Open Government Licence - Canada"@en;
   skos:exactMatch <https://spdx.org/licenses/OGL-Canada-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OGL-Canada-2.0"@en .
@@ -6563,7 +6563,7 @@ fdc:OGLUK1.0 a skos:Concept;
 gdmt:OGLUK1.0 a skos:Concept;
   skos:exactMatch fdc:OGLUK1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Government Licence v1.0"@en;
+  skos:altLabel "Open Government Licence v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OGL-UK-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OGL-UK-1.0"@en .
@@ -6577,7 +6577,7 @@ fdc:OGLUK2.0 a skos:Concept;
 gdmt:OGLUK2.0 a skos:Concept;
   skos:exactMatch fdc:OGLUK2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Government Licence v2.0"@en;
+  skos:altLabel "Open Government Licence v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OGL-UK-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OGL-UK-2.0"@en .
@@ -6591,7 +6591,7 @@ fdc:OGLUK3.0 a skos:Concept;
 gdmt:OGLUK3.0 a skos:Concept;
   skos:exactMatch fdc:OGLUK3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Government Licence v3.0"@en;
+  skos:altLabel "Open Government Licence v3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OGL-UK-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OGL-UK-3.0"@en .
@@ -6605,7 +6605,7 @@ fdc:OGTSL a skos:Concept;
 gdmt:OGTSL a skos:Concept;
   skos:exactMatch fdc:OGTSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Group Test Suite License"@en;
+  skos:altLabel "Open Group Test Suite License"@en;
   skos:exactMatch <https://spdx.org/licenses/OGTSL>;
   skos:inScheme scheme:;
   skos:prefLabel "OGTSL"@en .
@@ -6619,7 +6619,7 @@ fdc:OLDAP1.1 a skos:Concept;
 gdmt:OLDAP1.1 a skos:Concept;
   skos:exactMatch fdc:OLDAP1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v1.1"@en;
+  skos:altLabel "Open LDAP Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-1.1"@en .
@@ -6633,7 +6633,7 @@ fdc:OLDAP1.2 a skos:Concept;
 gdmt:OLDAP1.2 a skos:Concept;
   skos:exactMatch fdc:OLDAP1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v1.2"@en;
+  skos:altLabel "Open LDAP Public License v1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-1.2"@en .
@@ -6647,7 +6647,7 @@ fdc:OLDAP1.3 a skos:Concept;
 gdmt:OLDAP1.3 a skos:Concept;
   skos:exactMatch fdc:OLDAP1.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v1.3"@en;
+  skos:altLabel "Open LDAP Public License v1.3"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-1.3>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-1.3"@en .
@@ -6661,7 +6661,7 @@ fdc:OLDAP1.4 a skos:Concept;
 gdmt:OLDAP1.4 a skos:Concept;
   skos:exactMatch fdc:OLDAP1.4;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v1.4"@en;
+  skos:altLabel "Open LDAP Public License v1.4"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-1.4>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-1.4"@en .
@@ -6675,7 +6675,7 @@ fdc:OLDAP2.0 a skos:Concept;
 gdmt:OLDAP2.0 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)"@en;
+  skos:altLabel "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.0"@en .
@@ -6689,7 +6689,7 @@ fdc:OLDAP2.0.1 a skos:Concept;
 gdmt:OLDAP2.0.1 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.0.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.0.1"@en;
+  skos:altLabel "Open LDAP Public License v2.0.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.0.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.0.1"@en .
@@ -6703,7 +6703,7 @@ fdc:OLDAP2.1 a skos:Concept;
 gdmt:OLDAP2.1 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.1"@en;
+  skos:altLabel "Open LDAP Public License v2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.1"@en .
@@ -6717,7 +6717,7 @@ fdc:OLDAP2.2 a skos:Concept;
 gdmt:OLDAP2.2 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.2"@en;
+  skos:altLabel "Open LDAP Public License v2.2"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.2>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.2"@en .
@@ -6731,7 +6731,7 @@ fdc:OLDAP2.2.1 a skos:Concept;
 gdmt:OLDAP2.2.1 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.2.1"@en;
+  skos:altLabel "Open LDAP Public License v2.2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.2.1"@en .
@@ -6745,7 +6745,7 @@ fdc:OLDAP2.2.2 a skos:Concept;
 gdmt:OLDAP2.2.2 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.2.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License 2.2.2"@en;
+  skos:altLabel "Open LDAP Public License 2.2.2"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.2.2>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.2.2"@en .
@@ -6759,7 +6759,7 @@ fdc:OLDAP2.3 a skos:Concept;
 gdmt:OLDAP2.3 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.3"@en;
+  skos:altLabel "Open LDAP Public License v2.3"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.3>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.3"@en .
@@ -6773,7 +6773,7 @@ fdc:OLDAP2.4 a skos:Concept;
 gdmt:OLDAP2.4 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.4;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.4"@en;
+  skos:altLabel "Open LDAP Public License v2.4"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.4>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.4"@en .
@@ -6787,7 +6787,7 @@ fdc:OLDAP2.5 a skos:Concept;
 gdmt:OLDAP2.5 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.5"@en;
+  skos:altLabel "Open LDAP Public License v2.5"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.5>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.5"@en .
@@ -6801,7 +6801,7 @@ fdc:OLDAP2.6 a skos:Concept;
 gdmt:OLDAP2.6 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.6;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.6"@en;
+  skos:altLabel "Open LDAP Public License v2.6"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.6>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.6"@en .
@@ -6815,7 +6815,7 @@ fdc:OLDAP2.7 a skos:Concept;
 gdmt:OLDAP2.7 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.7;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.7"@en;
+  skos:altLabel "Open LDAP Public License v2.7"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.7>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.7"@en .
@@ -6829,7 +6829,7 @@ fdc:OLDAP2.8 a skos:Concept;
 gdmt:OLDAP2.8 a skos:Concept;
   skos:exactMatch fdc:OLDAP2.8;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open LDAP Public License v2.8"@en;
+  skos:altLabel "Open LDAP Public License v2.8"@en;
   skos:exactMatch <https://spdx.org/licenses/OLDAP-2.8>;
   skos:inScheme scheme:;
   skos:prefLabel "OLDAP-2.8"@en .
@@ -6843,7 +6843,7 @@ fdc:OML a skos:Concept;
 gdmt:OML a skos:Concept;
   skos:exactMatch fdc:OML;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Market License"@en;
+  skos:altLabel "Open Market License"@en;
   skos:exactMatch <https://spdx.org/licenses/OML>;
   skos:inScheme scheme:;
   skos:prefLabel "OML"@en .
@@ -6857,7 +6857,7 @@ fdc:OpenSSL a skos:Concept;
 gdmt:OpenSSL a skos:Concept;
   skos:exactMatch fdc:OpenSSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "OpenSSL License"@en;
+  skos:altLabel "OpenSSL License"@en;
   skos:exactMatch <https://spdx.org/licenses/OpenSSL>;
   skos:inScheme scheme:;
   skos:prefLabel "OpenSSL"@en .
@@ -6871,7 +6871,7 @@ fdc:OPL1.0 a skos:Concept;
 gdmt:OPL1.0 a skos:Concept;
   skos:exactMatch fdc:OPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Public License v1.0"@en;
+  skos:altLabel "Open Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OPL-1.0"@en .
@@ -6885,7 +6885,7 @@ fdc:OSETPL2.1 a skos:Concept;
 gdmt:OSETPL2.1 a skos:Concept;
   skos:exactMatch fdc:OSETPL2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "OSET Public License version 2.1"@en;
+  skos:altLabel "OSET Public License version 2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OSET-PL-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OSET-PL-2.1"@en .
@@ -6899,7 +6899,7 @@ fdc:OSL1.0 a skos:Concept;
 gdmt:OSL1.0 a skos:Concept;
   skos:exactMatch fdc:OSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Software License 1.0"@en;
+  skos:altLabel "Open Software License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OSL-1.0"@en .
@@ -6913,7 +6913,7 @@ fdc:OSL1.1 a skos:Concept;
 gdmt:OSL1.1 a skos:Concept;
   skos:exactMatch fdc:OSL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Software License 1.1"@en;
+  skos:altLabel "Open Software License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OSL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OSL-1.1"@en .
@@ -6927,7 +6927,7 @@ fdc:OSL2.0 a skos:Concept;
 gdmt:OSL2.0 a skos:Concept;
   skos:exactMatch fdc:OSL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Software License 2.0"@en;
+  skos:altLabel "Open Software License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OSL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OSL-2.0"@en .
@@ -6941,7 +6941,7 @@ fdc:OSL2.1 a skos:Concept;
 gdmt:OSL2.1 a skos:Concept;
   skos:exactMatch fdc:OSL2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Software License 2.1"@en;
+  skos:altLabel "Open Software License 2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/OSL-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "OSL-2.1"@en .
@@ -6955,7 +6955,7 @@ fdc:OSL3.0 a skos:Concept;
 gdmt:OSL3.0 a skos:Concept;
   skos:exactMatch fdc:OSL3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Open Software License 3.0"@en;
+  skos:altLabel "Open Software License 3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/OSL-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "OSL-3.0"@en .
@@ -6969,7 +6969,7 @@ fdc:Parity6.0.0 a skos:Concept;
 gdmt:Parity6.0.0 a skos:Concept;
   skos:exactMatch fdc:Parity6.0.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "The Parity Public License 6.0.0"@en;
+  skos:altLabel "The Parity Public License 6.0.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Parity-6.0.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Parity-6.0.0"@en .
@@ -6983,7 +6983,7 @@ fdc:Parity7.0.0 a skos:Concept;
 gdmt:Parity7.0.0 a skos:Concept;
   skos:exactMatch fdc:Parity7.0.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "The Parity Public License 7.0.0"@en;
+  skos:altLabel "The Parity Public License 7.0.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Parity-7.0.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Parity-7.0.0"@en .
@@ -6997,7 +6997,7 @@ fdc:PDDL1.0 a skos:Concept;
 gdmt:PDDL1.0 a skos:Concept;
   skos:exactMatch fdc:PDDL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "ODC Public Domain Dedication & License 1.0"@en;
+  skos:altLabel "ODC Public Domain Dedication & License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/PDDL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "PDDL-1.0"@en .
@@ -7011,7 +7011,7 @@ fdc:PHP3.0 a skos:Concept;
 gdmt:PHP3.0 a skos:Concept;
   skos:exactMatch fdc:PHP3.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PHP License v3.0"@en;
+  skos:altLabel "PHP License v3.0"@en;
   skos:exactMatch <https://spdx.org/licenses/PHP-3.0>;
   skos:inScheme scheme:;
   skos:prefLabel "PHP-3.0"@en .
@@ -7025,7 +7025,7 @@ fdc:PHP3.01 a skos:Concept;
 gdmt:PHP3.01 a skos:Concept;
   skos:exactMatch fdc:PHP3.01;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PHP License v3.01"@en;
+  skos:altLabel "PHP License v3.01"@en;
   skos:exactMatch <https://spdx.org/licenses/PHP-3.01>;
   skos:inScheme scheme:;
   skos:prefLabel "PHP-3.01"@en .
@@ -7039,7 +7039,7 @@ fdc:Plexus a skos:Concept;
 gdmt:Plexus a skos:Concept;
   skos:exactMatch fdc:Plexus;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Plexus Classworlds License"@en;
+  skos:altLabel "Plexus Classworlds License"@en;
   skos:exactMatch <https://spdx.org/licenses/Plexus>;
   skos:inScheme scheme:;
   skos:prefLabel "Plexus"@en .
@@ -7053,7 +7053,7 @@ fdc:PolyFormNoncommercial1.0.0 a skos:Concept;
 gdmt:PolyFormNoncommercial1.0.0 a skos:Concept;
   skos:exactMatch fdc:PolyFormNoncommercial1.0.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PolyForm Noncommercial License 1.0.0"@en;
+  skos:altLabel "PolyForm Noncommercial License 1.0.0"@en;
   skos:exactMatch <https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0>;
   skos:inScheme scheme:;
   skos:prefLabel "PolyForm-Noncommercial-1.0.0"@en .
@@ -7067,7 +7067,7 @@ fdc:PolyFormSmallBusiness1.0.0 a skos:Concept;
 gdmt:PolyFormSmallBusiness1.0.0 a skos:Concept;
   skos:exactMatch fdc:PolyFormSmallBusiness1.0.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PolyForm Small Business License 1.0.0"@en;
+  skos:altLabel "PolyForm Small Business License 1.0.0"@en;
   skos:exactMatch <https://spdx.org/licenses/PolyForm-Small-Business-1.0.0>;
   skos:inScheme scheme:;
   skos:prefLabel "PolyForm-Small-Business-1.0.0"@en .
@@ -7081,7 +7081,7 @@ fdc:PostgreSQL a skos:Concept;
 gdmt:PostgreSQL a skos:Concept;
   skos:exactMatch fdc:PostgreSQL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "PostgreSQL License"@en;
+  skos:altLabel "PostgreSQL License"@en;
   skos:exactMatch <https://spdx.org/licenses/PostgreSQL>;
   skos:inScheme scheme:;
   skos:prefLabel "PostgreSQL"@en .
@@ -7095,7 +7095,7 @@ fdc:PSF2.0 a skos:Concept;
 gdmt:PSF2.0 a skos:Concept;
   skos:exactMatch fdc:PSF2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Python Software Foundation License 2.0"@en;
+  skos:altLabel "Python Software Foundation License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/PSF-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "PSF-2.0"@en .
@@ -7109,7 +7109,7 @@ fdc:psfrag a skos:Concept;
 gdmt:psfrag a skos:Concept;
   skos:exactMatch fdc:psfrag;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "psfrag License"@en;
+  skos:altLabel "psfrag License"@en;
   skos:exactMatch <https://spdx.org/licenses/psfrag>;
   skos:inScheme scheme:;
   skos:prefLabel "psfrag"@en .
@@ -7123,7 +7123,7 @@ fdc:psutils a skos:Concept;
 gdmt:psutils a skos:Concept;
   skos:exactMatch fdc:psutils;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "psutils License"@en;
+  skos:altLabel "psutils License"@en;
   skos:exactMatch <https://spdx.org/licenses/psutils>;
   skos:inScheme scheme:;
   skos:prefLabel "psutils"@en .
@@ -7137,7 +7137,7 @@ fdc:Python2.0 a skos:Concept;
 gdmt:Python2.0 a skos:Concept;
   skos:exactMatch fdc:Python2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Python License 2.0"@en;
+  skos:altLabel "Python License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Python-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Python-2.0"@en .
@@ -7151,7 +7151,7 @@ fdc:Qhull a skos:Concept;
 gdmt:Qhull a skos:Concept;
   skos:exactMatch fdc:Qhull;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Qhull License"@en;
+  skos:altLabel "Qhull License"@en;
   skos:exactMatch <https://spdx.org/licenses/Qhull>;
   skos:inScheme scheme:;
   skos:prefLabel "Qhull"@en .
@@ -7165,7 +7165,7 @@ fdc:QPL1.0 a skos:Concept;
 gdmt:QPL1.0 a skos:Concept;
   skos:exactMatch fdc:QPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Q Public License 1.0"@en;
+  skos:altLabel "Q Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/QPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "QPL-1.0"@en .
@@ -7179,7 +7179,7 @@ fdc:Rdisc a skos:Concept;
 gdmt:Rdisc a skos:Concept;
   skos:exactMatch fdc:Rdisc;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Rdisc License"@en;
+  skos:altLabel "Rdisc License"@en;
   skos:exactMatch <https://spdx.org/licenses/Rdisc>;
   skos:inScheme scheme:;
   skos:prefLabel "Rdisc"@en .
@@ -7193,7 +7193,7 @@ fdc:RHeCos1.1 a skos:Concept;
 gdmt:RHeCos1.1 a skos:Concept;
   skos:exactMatch fdc:RHeCos1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Red Hat eCos Public License v1.1"@en;
+  skos:altLabel "Red Hat eCos Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/RHeCos-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "RHeCos-1.1"@en .
@@ -7207,7 +7207,7 @@ fdc:RPL1.1 a skos:Concept;
 gdmt:RPL1.1 a skos:Concept;
   skos:exactMatch fdc:RPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Reciprocal Public License 1.1"@en;
+  skos:altLabel "Reciprocal Public License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/RPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "RPL-1.1"@en .
@@ -7221,7 +7221,7 @@ fdc:RPL1.5 a skos:Concept;
 gdmt:RPL1.5 a skos:Concept;
   skos:exactMatch fdc:RPL1.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Reciprocal Public License 1.5"@en;
+  skos:altLabel "Reciprocal Public License 1.5"@en;
   skos:exactMatch <https://spdx.org/licenses/RPL-1.5>;
   skos:inScheme scheme:;
   skos:prefLabel "RPL-1.5"@en .
@@ -7235,7 +7235,7 @@ fdc:RPSL1.0 a skos:Concept;
 gdmt:RPSL1.0 a skos:Concept;
   skos:exactMatch fdc:RPSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "RealNetworks Public Source License v1.0"@en;
+  skos:altLabel "RealNetworks Public Source License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/RPSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "RPSL-1.0"@en .
@@ -7249,7 +7249,7 @@ fdc:RSAMD a skos:Concept;
 gdmt:RSAMD a skos:Concept;
   skos:exactMatch fdc:RSAMD;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "RSA Message-Digest License"@en;
+  skos:altLabel "RSA Message-Digest License"@en;
   skos:exactMatch <https://spdx.org/licenses/RSA-MD>;
   skos:inScheme scheme:;
   skos:prefLabel "RSA-MD"@en .
@@ -7263,7 +7263,7 @@ fdc:RSCPL a skos:Concept;
 gdmt:RSCPL a skos:Concept;
   skos:exactMatch fdc:RSCPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Ricoh Source Code Public License"@en;
+  skos:altLabel "Ricoh Source Code Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/RSCPL>;
   skos:inScheme scheme:;
   skos:prefLabel "RSCPL"@en .
@@ -7277,7 +7277,7 @@ fdc:Ruby a skos:Concept;
 gdmt:Ruby a skos:Concept;
   skos:exactMatch fdc:Ruby;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Ruby License"@en;
+  skos:altLabel "Ruby License"@en;
   skos:exactMatch <https://spdx.org/licenses/Ruby>;
   skos:inScheme scheme:;
   skos:prefLabel "Ruby"@en .
@@ -7291,7 +7291,7 @@ fdc:SAXPD a skos:Concept;
 gdmt:SAXPD a skos:Concept;
   skos:exactMatch fdc:SAXPD;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sax Public Domain Notice"@en;
+  skos:altLabel "Sax Public Domain Notice"@en;
   skos:exactMatch <https://spdx.org/licenses/SAX-PD>;
   skos:inScheme scheme:;
   skos:prefLabel "SAX-PD"@en .
@@ -7305,7 +7305,7 @@ fdc:Saxpath a skos:Concept;
 gdmt:Saxpath a skos:Concept;
   skos:exactMatch fdc:Saxpath;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Saxpath License"@en;
+  skos:altLabel "Saxpath License"@en;
   skos:exactMatch <https://spdx.org/licenses/Saxpath>;
   skos:inScheme scheme:;
   skos:prefLabel "Saxpath"@en .
@@ -7319,7 +7319,7 @@ fdc:SCEA a skos:Concept;
 gdmt:SCEA a skos:Concept;
   skos:exactMatch fdc:SCEA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SCEA Shared Source License"@en;
+  skos:altLabel "SCEA Shared Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/SCEA>;
   skos:inScheme scheme:;
   skos:prefLabel "SCEA"@en .
@@ -7333,7 +7333,7 @@ fdc:Sendmail a skos:Concept;
 gdmt:Sendmail a skos:Concept;
   skos:exactMatch fdc:Sendmail;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sendmail License"@en;
+  skos:altLabel "Sendmail License"@en;
   skos:exactMatch <https://spdx.org/licenses/Sendmail>;
   skos:inScheme scheme:;
   skos:prefLabel "Sendmail"@en .
@@ -7347,7 +7347,7 @@ fdc:Sendmail8.23 a skos:Concept;
 gdmt:Sendmail8.23 a skos:Concept;
   skos:exactMatch fdc:Sendmail8.23;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sendmail License 8.23"@en;
+  skos:altLabel "Sendmail License 8.23"@en;
   skos:exactMatch <https://spdx.org/licenses/Sendmail-8.23>;
   skos:inScheme scheme:;
   skos:prefLabel "Sendmail-8.23"@en .
@@ -7361,7 +7361,7 @@ fdc:SGIB1.0 a skos:Concept;
 gdmt:SGIB1.0 a skos:Concept;
   skos:exactMatch fdc:SGIB1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SGI Free Software License B v1.0"@en;
+  skos:altLabel "SGI Free Software License B v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/SGI-B-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "SGI-B-1.0"@en .
@@ -7375,7 +7375,7 @@ fdc:SGIB1.1 a skos:Concept;
 gdmt:SGIB1.1 a skos:Concept;
   skos:exactMatch fdc:SGIB1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SGI Free Software License B v1.1"@en;
+  skos:altLabel "SGI Free Software License B v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/SGI-B-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "SGI-B-1.1"@en .
@@ -7389,7 +7389,7 @@ fdc:SGIB2.0 a skos:Concept;
 gdmt:SGIB2.0 a skos:Concept;
   skos:exactMatch fdc:SGIB2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SGI Free Software License B v2.0"@en;
+  skos:altLabel "SGI Free Software License B v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/SGI-B-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "SGI-B-2.0"@en .
@@ -7403,7 +7403,7 @@ fdc:SHL0.5 a skos:Concept;
 gdmt:SHL0.5 a skos:Concept;
   skos:exactMatch fdc:SHL0.5;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Solderpad Hardware License v0.5"@en;
+  skos:altLabel "Solderpad Hardware License v0.5"@en;
   skos:exactMatch <https://spdx.org/licenses/SHL-0.5>;
   skos:inScheme scheme:;
   skos:prefLabel "SHL-0.5"@en .
@@ -7417,7 +7417,7 @@ fdc:SHL0.51 a skos:Concept;
 gdmt:SHL0.51 a skos:Concept;
   skos:exactMatch fdc:SHL0.51;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Solderpad Hardware License, Version 0.51"@en;
+  skos:altLabel "Solderpad Hardware License, Version 0.51"@en;
   skos:exactMatch <https://spdx.org/licenses/SHL-0.51>;
   skos:inScheme scheme:;
   skos:prefLabel "SHL-0.51"@en .
@@ -7431,7 +7431,7 @@ fdc:SimPL2.0 a skos:Concept;
 gdmt:SimPL2.0 a skos:Concept;
   skos:exactMatch fdc:SimPL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Simple Public License 2.0"@en;
+  skos:altLabel "Simple Public License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/SimPL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "SimPL-2.0"@en .
@@ -7445,7 +7445,7 @@ fdc:SISSL a skos:Concept;
 gdmt:SISSL a skos:Concept;
   skos:exactMatch fdc:SISSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sun Industry Standards Source License v1.1"@en;
+  skos:altLabel "Sun Industry Standards Source License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/SISSL>;
   skos:inScheme scheme:;
   skos:prefLabel "SISSL"@en .
@@ -7459,7 +7459,7 @@ fdc:SISSL1.2 a skos:Concept;
 gdmt:SISSL1.2 a skos:Concept;
   skos:exactMatch fdc:SISSL1.2;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sun Industry Standards Source License v1.2"@en;
+  skos:altLabel "Sun Industry Standards Source License v1.2"@en;
   skos:exactMatch <https://spdx.org/licenses/SISSL-1.2>;
   skos:inScheme scheme:;
   skos:prefLabel "SISSL-1.2"@en .
@@ -7473,7 +7473,7 @@ fdc:Sleepycat a skos:Concept;
 gdmt:Sleepycat a skos:Concept;
   skos:exactMatch fdc:Sleepycat;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sleepycat License"@en;
+  skos:altLabel "Sleepycat License"@en;
   skos:exactMatch <https://spdx.org/licenses/Sleepycat>;
   skos:inScheme scheme:;
   skos:prefLabel "Sleepycat"@en .
@@ -7487,7 +7487,7 @@ fdc:SMLNJ a skos:Concept;
 gdmt:SMLNJ a skos:Concept;
   skos:exactMatch fdc:SMLNJ;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Standard ML of New Jersey License"@en;
+  skos:altLabel "Standard ML of New Jersey License"@en;
   skos:exactMatch <https://spdx.org/licenses/SMLNJ>;
   skos:inScheme scheme:;
   skos:prefLabel "SMLNJ"@en .
@@ -7501,7 +7501,7 @@ fdc:SMPPL a skos:Concept;
 gdmt:SMPPL a skos:Concept;
   skos:exactMatch fdc:SMPPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Secure Messaging Protocol Public License"@en;
+  skos:altLabel "Secure Messaging Protocol Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/SMPPL>;
   skos:inScheme scheme:;
   skos:prefLabel "SMPPL"@en .
@@ -7515,7 +7515,7 @@ fdc:SNIA a skos:Concept;
 gdmt:SNIA a skos:Concept;
   skos:exactMatch fdc:SNIA;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SNIA Public License 1.1"@en;
+  skos:altLabel "SNIA Public License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/SNIA>;
   skos:inScheme scheme:;
   skos:prefLabel "SNIA"@en .
@@ -7529,7 +7529,7 @@ fdc:Spencer86 a skos:Concept;
 gdmt:Spencer86 a skos:Concept;
   skos:exactMatch fdc:Spencer86;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Spencer License 86"@en;
+  skos:altLabel "Spencer License 86"@en;
   skos:exactMatch <https://spdx.org/licenses/Spencer-86>;
   skos:inScheme scheme:;
   skos:prefLabel "Spencer-86"@en .
@@ -7543,7 +7543,7 @@ fdc:Spencer94 a skos:Concept;
 gdmt:Spencer94 a skos:Concept;
   skos:exactMatch fdc:Spencer94;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Spencer License 94"@en;
+  skos:altLabel "Spencer License 94"@en;
   skos:exactMatch <https://spdx.org/licenses/Spencer-94>;
   skos:inScheme scheme:;
   skos:prefLabel "Spencer-94"@en .
@@ -7557,7 +7557,7 @@ fdc:Spencer99 a skos:Concept;
 gdmt:Spencer99 a skos:Concept;
   skos:exactMatch fdc:Spencer99;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Spencer License 99"@en;
+  skos:altLabel "Spencer License 99"@en;
   skos:exactMatch <https://spdx.org/licenses/Spencer-99>;
   skos:inScheme scheme:;
   skos:prefLabel "Spencer-99"@en .
@@ -7571,7 +7571,7 @@ fdc:SPL1.0 a skos:Concept;
 gdmt:SPL1.0 a skos:Concept;
   skos:exactMatch fdc:SPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sun Public License v1.0"@en;
+  skos:altLabel "Sun Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/SPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "SPL-1.0"@en .
@@ -7585,7 +7585,7 @@ fdc:SSHOpenSSH a skos:Concept;
 gdmt:SSHOpenSSH a skos:Concept;
   skos:exactMatch fdc:SSHOpenSSH;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SSH OpenSSH license"@en;
+  skos:altLabel "SSH OpenSSH license"@en;
   skos:exactMatch <https://spdx.org/licenses/SSH-OpenSSH>;
   skos:inScheme scheme:;
   skos:prefLabel "SSH-OpenSSH"@en .
@@ -7599,7 +7599,7 @@ fdc:SSHshort a skos:Concept;
 gdmt:SSHshort a skos:Concept;
   skos:exactMatch fdc:SSHshort;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SSH short notice"@en;
+  skos:altLabel "SSH short notice"@en;
   skos:exactMatch <https://spdx.org/licenses/SSH-short>;
   skos:inScheme scheme:;
   skos:prefLabel "SSH-short"@en .
@@ -7613,7 +7613,7 @@ fdc:SSPL1.0 a skos:Concept;
 gdmt:SSPL1.0 a skos:Concept;
   skos:exactMatch fdc:SSPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Server Side Public License, v 1"@en;
+  skos:altLabel "Server Side Public License, v 1"@en;
   skos:exactMatch <https://spdx.org/licenses/SSPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "SSPL-1.0"@en .
@@ -7627,7 +7627,7 @@ fdc:SugarCRM1.1.3 a skos:Concept;
 gdmt:SugarCRM1.1.3 a skos:Concept;
   skos:exactMatch fdc:SugarCRM1.1.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "SugarCRM Public License v1.1.3"@en;
+  skos:altLabel "SugarCRM Public License v1.1.3"@en;
   skos:exactMatch <https://spdx.org/licenses/SugarCRM-1.1.3>;
   skos:inScheme scheme:;
   skos:prefLabel "SugarCRM-1.1.3"@en .
@@ -7641,7 +7641,7 @@ fdc:SWL a skos:Concept;
 gdmt:SWL a skos:Concept;
   skos:exactMatch fdc:SWL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Scheme Widget Library (SWL) Software License Agreement"@en;
+  skos:altLabel "Scheme Widget Library (SWL) Software License Agreement"@en;
   skos:exactMatch <https://spdx.org/licenses/SWL>;
   skos:inScheme scheme:;
   skos:prefLabel "SWL"@en .
@@ -7655,7 +7655,7 @@ fdc:TAPROHL1.0 a skos:Concept;
 gdmt:TAPROHL1.0 a skos:Concept;
   skos:exactMatch fdc:TAPROHL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "TAPR Open Hardware License v1.0"@en;
+  skos:altLabel "TAPR Open Hardware License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/TAPR-OHL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "TAPR-OHL-1.0"@en .
@@ -7669,7 +7669,7 @@ fdc:TCL a skos:Concept;
 gdmt:TCL a skos:Concept;
   skos:exactMatch fdc:TCL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "TCL/TK License"@en;
+  skos:altLabel "TCL/TK License"@en;
   skos:exactMatch <https://spdx.org/licenses/TCL>;
   skos:inScheme scheme:;
   skos:prefLabel "TCL"@en .
@@ -7683,7 +7683,7 @@ fdc:TCPwrappers a skos:Concept;
 gdmt:TCPwrappers a skos:Concept;
   skos:exactMatch fdc:TCPwrappers;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "TCP Wrappers License"@en;
+  skos:altLabel "TCP Wrappers License"@en;
   skos:exactMatch <https://spdx.org/licenses/TCP-wrappers>;
   skos:inScheme scheme:;
   skos:prefLabel "TCP-wrappers"@en .
@@ -7697,7 +7697,7 @@ fdc:TMate a skos:Concept;
 gdmt:TMate a skos:Concept;
   skos:exactMatch fdc:TMate;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "TMate Open Source License"@en;
+  skos:altLabel "TMate Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/TMate>;
   skos:inScheme scheme:;
   skos:prefLabel "TMate"@en .
@@ -7711,7 +7711,7 @@ fdc:TORQUE1.1 a skos:Concept;
 gdmt:TORQUE1.1 a skos:Concept;
   skos:exactMatch fdc:TORQUE1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "TORQUE v2.5+ Software License v1.1"@en;
+  skos:altLabel "TORQUE v2.5+ Software License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/TORQUE-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "TORQUE-1.1"@en .
@@ -7725,7 +7725,7 @@ fdc:TOSL a skos:Concept;
 gdmt:TOSL a skos:Concept;
   skos:exactMatch fdc:TOSL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Trusster Open Source License"@en;
+  skos:altLabel "Trusster Open Source License"@en;
   skos:exactMatch <https://spdx.org/licenses/TOSL>;
   skos:inScheme scheme:;
   skos:prefLabel "TOSL"@en .
@@ -7739,7 +7739,7 @@ fdc:TUBerlin1.0 a skos:Concept;
 gdmt:TUBerlin1.0 a skos:Concept;
   skos:exactMatch fdc:TUBerlin1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Technische Universitaet Berlin License 1.0"@en;
+  skos:altLabel "Technische Universitaet Berlin License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/TU-Berlin-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "TU-Berlin-1.0"@en .
@@ -7753,7 +7753,7 @@ fdc:TUBerlin2.0 a skos:Concept;
 gdmt:TUBerlin2.0 a skos:Concept;
   skos:exactMatch fdc:TUBerlin2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Technische Universitaet Berlin License 2.0"@en;
+  skos:altLabel "Technische Universitaet Berlin License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/TU-Berlin-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "TU-Berlin-2.0"@en .
@@ -7767,7 +7767,7 @@ fdc:UCL1.0 a skos:Concept;
 gdmt:UCL1.0 a skos:Concept;
   skos:exactMatch fdc:UCL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Upstream Compatibility License v1.0"@en;
+  skos:altLabel "Upstream Compatibility License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/UCL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "UCL-1.0"@en .
@@ -7781,7 +7781,7 @@ fdc:UnicodeDFS2015 a skos:Concept;
 gdmt:UnicodeDFS2015 a skos:Concept;
   skos:exactMatch fdc:UnicodeDFS2015;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Unicode License Agreement - Data Files and Software (2015)"@en;
+  skos:altLabel "Unicode License Agreement - Data Files and Software (2015)"@en;
   skos:exactMatch <https://spdx.org/licenses/Unicode-DFS-2015>;
   skos:inScheme scheme:;
   skos:prefLabel "Unicode-DFS-2015"@en .
@@ -7795,7 +7795,7 @@ fdc:UnicodeDFS2016 a skos:Concept;
 gdmt:UnicodeDFS2016 a skos:Concept;
   skos:exactMatch fdc:UnicodeDFS2016;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Unicode License Agreement - Data Files and Software (2016)"@en;
+  skos:altLabel "Unicode License Agreement - Data Files and Software (2016)"@en;
   skos:exactMatch <https://spdx.org/licenses/Unicode-DFS-2016>;
   skos:inScheme scheme:;
   skos:prefLabel "Unicode-DFS-2016"@en .
@@ -7809,7 +7809,7 @@ fdc:UnicodeTOU a skos:Concept;
 gdmt:UnicodeTOU a skos:Concept;
   skos:exactMatch fdc:UnicodeTOU;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Unicode Terms of Use"@en;
+  skos:altLabel "Unicode Terms of Use"@en;
   skos:exactMatch <https://spdx.org/licenses/Unicode-TOU>;
   skos:inScheme scheme:;
   skos:prefLabel "Unicode-TOU"@en .
@@ -7823,7 +7823,7 @@ fdc:Unlicense a skos:Concept;
 gdmt:Unlicense a skos:Concept;
   skos:exactMatch fdc:Unlicense;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "The Unlicense"@en;
+  skos:altLabel "The Unlicense"@en;
   skos:exactMatch <https://spdx.org/licenses/Unlicense>;
   skos:inScheme scheme:;
   skos:prefLabel "Unlicense"@en .
@@ -7837,7 +7837,7 @@ fdc:UPL1.0 a skos:Concept;
 gdmt:UPL1.0 a skos:Concept;
   skos:exactMatch fdc:UPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Universal Permissive License v1.0"@en;
+  skos:altLabel "Universal Permissive License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/UPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "UPL-1.0"@en .
@@ -7851,7 +7851,7 @@ fdc:Vim a skos:Concept;
 gdmt:Vim a skos:Concept;
   skos:exactMatch fdc:Vim;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Vim License"@en;
+  skos:altLabel "Vim License"@en;
   skos:exactMatch <https://spdx.org/licenses/Vim>;
   skos:inScheme scheme:;
   skos:prefLabel "Vim"@en .
@@ -7865,7 +7865,7 @@ fdc:VOSTROM a skos:Concept;
 gdmt:VOSTROM a skos:Concept;
   skos:exactMatch fdc:VOSTROM;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "VOSTROM Public License for Open Source"@en;
+  skos:altLabel "VOSTROM Public License for Open Source"@en;
   skos:exactMatch <https://spdx.org/licenses/VOSTROM>;
   skos:inScheme scheme:;
   skos:prefLabel "VOSTROM"@en .
@@ -7879,7 +7879,7 @@ fdc:VSL1.0 a skos:Concept;
 gdmt:VSL1.0 a skos:Concept;
   skos:exactMatch fdc:VSL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Vovida Software License v1.0"@en;
+  skos:altLabel "Vovida Software License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/VSL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "VSL-1.0"@en .
@@ -7893,7 +7893,7 @@ fdc:W3C a skos:Concept;
 gdmt:W3C a skos:Concept;
   skos:exactMatch fdc:W3C;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "W3C Software Notice and License (2002-12-31)"@en;
+  skos:altLabel "W3C Software Notice and License (2002-12-31)"@en;
   skos:exactMatch <https://spdx.org/licenses/W3C>;
   skos:inScheme scheme:;
   skos:prefLabel "W3C"@en .
@@ -7907,7 +7907,7 @@ fdc:W3C19980720 a skos:Concept;
 gdmt:W3C19980720 a skos:Concept;
   skos:exactMatch fdc:W3C19980720;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "W3C Software Notice and License (1998-07-20)"@en;
+  skos:altLabel "W3C Software Notice and License (1998-07-20)"@en;
   skos:exactMatch <https://spdx.org/licenses/W3C-19980720>;
   skos:inScheme scheme:;
   skos:prefLabel "W3C-19980720"@en .
@@ -7921,7 +7921,7 @@ fdc:W3C20150513 a skos:Concept;
 gdmt:W3C20150513 a skos:Concept;
   skos:exactMatch fdc:W3C20150513;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "W3C Software Notice and Document License (2015-05-13)"@en;
+  skos:altLabel "W3C Software Notice and Document License (2015-05-13)"@en;
   skos:exactMatch <https://spdx.org/licenses/W3C-20150513>;
   skos:inScheme scheme:;
   skos:prefLabel "W3C-20150513"@en .
@@ -7935,7 +7935,7 @@ fdc:Watcom1.0 a skos:Concept;
 gdmt:Watcom1.0 a skos:Concept;
   skos:exactMatch fdc:Watcom1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Sybase Open Watcom Public License 1.0"@en;
+  skos:altLabel "Sybase Open Watcom Public License 1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Watcom-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Watcom-1.0"@en .
@@ -7949,7 +7949,7 @@ fdc:Wsuipa a skos:Concept;
 gdmt:Wsuipa a skos:Concept;
   skos:exactMatch fdc:Wsuipa;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Wsuipa License"@en;
+  skos:altLabel "Wsuipa License"@en;
   skos:exactMatch <https://spdx.org/licenses/Wsuipa>;
   skos:inScheme scheme:;
   skos:prefLabel "Wsuipa"@en .
@@ -7963,7 +7963,7 @@ fdc:WTFPL a skos:Concept;
 gdmt:WTFPL a skos:Concept;
   skos:exactMatch fdc:WTFPL;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Do What The F*ck You Want To Public License"@en;
+  skos:altLabel "Do What The F*ck You Want To Public License"@en;
   skos:exactMatch <https://spdx.org/licenses/WTFPL>;
   skos:inScheme scheme:;
   skos:prefLabel "WTFPL"@en .
@@ -7977,7 +7977,7 @@ fdc:X11 a skos:Concept;
 gdmt:X11 a skos:Concept;
   skos:exactMatch fdc:X11;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "X11 License"@en;
+  skos:altLabel "X11 License"@en;
   skos:exactMatch <https://spdx.org/licenses/X11>;
   skos:inScheme scheme:;
   skos:prefLabel "X11"@en .
@@ -7991,7 +7991,7 @@ fdc:Xerox a skos:Concept;
 gdmt:Xerox a skos:Concept;
   skos:exactMatch fdc:Xerox;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Xerox License"@en;
+  skos:altLabel "Xerox License"@en;
   skos:exactMatch <https://spdx.org/licenses/Xerox>;
   skos:inScheme scheme:;
   skos:prefLabel "Xerox"@en .
@@ -8005,7 +8005,7 @@ fdc:XFree861.1 a skos:Concept;
 gdmt:XFree861.1 a skos:Concept;
   skos:exactMatch fdc:XFree861.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "XFree86 License 1.1"@en;
+  skos:altLabel "XFree86 License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/XFree86-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "XFree86-1.1"@en .
@@ -8019,7 +8019,7 @@ fdc:xinetd a skos:Concept;
 gdmt:xinetd a skos:Concept;
   skos:exactMatch fdc:xinetd;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "xinetd License"@en;
+  skos:altLabel "xinetd License"@en;
   skos:exactMatch <https://spdx.org/licenses/xinetd>;
   skos:inScheme scheme:;
   skos:prefLabel "xinetd"@en .
@@ -8033,7 +8033,7 @@ fdc:Xnet a skos:Concept;
 gdmt:Xnet a skos:Concept;
   skos:exactMatch fdc:Xnet;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "X.Net License"@en;
+  skos:altLabel "X.Net License"@en;
   skos:exactMatch <https://spdx.org/licenses/Xnet>;
   skos:inScheme scheme:;
   skos:prefLabel "Xnet"@en .
@@ -8047,7 +8047,7 @@ fdc:xpp a skos:Concept;
 gdmt:xpp a skos:Concept;
   skos:exactMatch fdc:xpp;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "XPP License"@en;
+  skos:altLabel "XPP License"@en;
   skos:exactMatch <https://spdx.org/licenses/xpp>;
   skos:inScheme scheme:;
   skos:prefLabel "xpp"@en .
@@ -8061,7 +8061,7 @@ fdc:XSkat a skos:Concept;
 gdmt:XSkat a skos:Concept;
   skos:exactMatch fdc:XSkat;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "XSkat License"@en;
+  skos:altLabel "XSkat License"@en;
   skos:exactMatch <https://spdx.org/licenses/XSkat>;
   skos:inScheme scheme:;
   skos:prefLabel "XSkat"@en .
@@ -8075,7 +8075,7 @@ fdc:YPL1.0 a skos:Concept;
 gdmt:YPL1.0 a skos:Concept;
   skos:exactMatch fdc:YPL1.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Yahoo! Public License v1.0"@en;
+  skos:altLabel "Yahoo! Public License v1.0"@en;
   skos:exactMatch <https://spdx.org/licenses/YPL-1.0>;
   skos:inScheme scheme:;
   skos:prefLabel "YPL-1.0"@en .
@@ -8089,7 +8089,7 @@ fdc:YPL1.1 a skos:Concept;
 gdmt:YPL1.1 a skos:Concept;
   skos:exactMatch fdc:YPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Yahoo! Public License v1.1"@en;
+  skos:altLabel "Yahoo! Public License v1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/YPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "YPL-1.1"@en .
@@ -8103,7 +8103,7 @@ fdc:Zed a skos:Concept;
 gdmt:Zed a skos:Concept;
   skos:exactMatch fdc:Zed;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zed License"@en;
+  skos:altLabel "Zed License"@en;
   skos:exactMatch <https://spdx.org/licenses/Zed>;
   skos:inScheme scheme:;
   skos:prefLabel "Zed"@en .
@@ -8117,7 +8117,7 @@ fdc:Zend2.0 a skos:Concept;
 gdmt:Zend2.0 a skos:Concept;
   skos:exactMatch fdc:Zend2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zend License v2.0"@en;
+  skos:altLabel "Zend License v2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/Zend-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "Zend-2.0"@en .
@@ -8131,7 +8131,7 @@ fdc:Zimbra1.3 a skos:Concept;
 gdmt:Zimbra1.3 a skos:Concept;
   skos:exactMatch fdc:Zimbra1.3;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zimbra Public License v1.3"@en;
+  skos:altLabel "Zimbra Public License v1.3"@en;
   skos:exactMatch <https://spdx.org/licenses/Zimbra-1.3>;
   skos:inScheme scheme:;
   skos:prefLabel "Zimbra-1.3"@en .
@@ -8145,7 +8145,7 @@ fdc:Zimbra1.4 a skos:Concept;
 gdmt:Zimbra1.4 a skos:Concept;
   skos:exactMatch fdc:Zimbra1.4;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zimbra Public License v1.4"@en;
+  skos:altLabel "Zimbra Public License v1.4"@en;
   skos:exactMatch <https://spdx.org/licenses/Zimbra-1.4>;
   skos:inScheme scheme:;
   skos:prefLabel "Zimbra-1.4"@en .
@@ -8159,7 +8159,7 @@ fdc:Zlib a skos:Concept;
 gdmt:Zlib a skos:Concept;
   skos:exactMatch fdc:Zlib;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "zlib License"@en;
+  skos:altLabel "zlib License"@en;
   skos:exactMatch <https://spdx.org/licenses/Zlib>;
   skos:inScheme scheme:;
   skos:prefLabel "Zlib"@en .
@@ -8173,7 +8173,7 @@ fdc:zlibacknowledgement a skos:Concept;
 gdmt:zlibacknowledgement a skos:Concept;
   skos:exactMatch fdc:zlibacknowledgement;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "zlib/libpng License with Acknowledgement"@en;
+  skos:altLabel "zlib/libpng License with Acknowledgement"@en;
   skos:exactMatch <https://spdx.org/licenses/zlib-acknowledgement>;
   skos:inScheme scheme:;
   skos:prefLabel "zlib-acknowledgement"@en .
@@ -8187,7 +8187,7 @@ fdc:ZPL1.1 a skos:Concept;
 gdmt:ZPL1.1 a skos:Concept;
   skos:exactMatch fdc:ZPL1.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zope Public License 1.1"@en;
+  skos:altLabel "Zope Public License 1.1"@en;
   skos:exactMatch <https://spdx.org/licenses/ZPL-1.1>;
   skos:inScheme scheme:;
   skos:prefLabel "ZPL-1.1"@en .
@@ -8201,7 +8201,7 @@ fdc:ZPL2.0 a skos:Concept;
 gdmt:ZPL2.0 a skos:Concept;
   skos:exactMatch fdc:ZPL2.0;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zope Public License 2.0"@en;
+  skos:altLabel "Zope Public License 2.0"@en;
   skos:exactMatch <https://spdx.org/licenses/ZPL-2.0>;
   skos:inScheme scheme:;
   skos:prefLabel "ZPL-2.0"@en .
@@ -8215,7 +8215,7 @@ fdc:ZPL2.1 a skos:Concept;
 gdmt:ZPL2.1 a skos:Concept;
   skos:exactMatch fdc:ZPL2.1;
   skos:broader gdmt:LicenseIdentifier;
-  skos:definition "Zope Public License 2.1"@en;
+  skos:altLabel "Zope Public License 2.1"@en;
   skos:exactMatch <https://spdx.org/licenses/ZPL-2.1>;
   skos:inScheme scheme:;
   skos:prefLabel "ZPL-2.1"@en .
