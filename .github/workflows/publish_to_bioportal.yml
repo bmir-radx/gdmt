@@ -18,6 +18,7 @@ on:
 
 jobs:
   trigger_bioportal_pull:
+    runs-on: ubuntu-latest
     steps:
       - name: trigger_bioportal_pull
         run: |
