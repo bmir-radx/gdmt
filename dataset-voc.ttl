@@ -2253,30 +2253,30 @@ gdmt:IdentifierScheme a skos:Concept;
   skos:exactMatch fdc:IdentifierScheme;
   skos:definition "Identifier scheme used for identifying person, organization, system, physical or digital object."@en;
   skos:inScheme scheme:;
-  skos:narrower <http://www.researcherid.com/>, <https://isni.org/>, <https://orcid.org/>,
-    <https://ror.org>, <https://www.grid.ac/>, <https://www.linkedin.com/>, <https://www.scopus.com/>;
+  skos:narrower <http://www.researcherid.com>, <https://isni.org>, <https://orcid.org>,
+    <https://ror.org>, <https://www.grid.ac>, <https://www.linkedin.com>, <https://www.scopus.com>;
   skos:prefLabel "Identifier Scheme"@en;
   skos:topConceptOf scheme: .
 
-<https://orcid.org/> a skos:Concept;
+<https://orcid.org> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "The ORCID (Open Researcher and Contributor ID) is a nonproprietary alphanumeric code to uniquely identify scientific and other academic authors and contributors."@en;
   skos:inScheme scheme:;
   skos:prefLabel "ORCiD"@en .
 
-<https://www.scopus.com/> a skos:Concept;
+<https://www.scopus.com> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "The Scopus author identifier distinguishes authors among themselves by assigning a unique number to each author."@en;
   skos:inScheme scheme:;
   skos:prefLabel "Scopus"@en .
 
-<http://www.researcherid.com/> a skos:Concept;
+<http://www.researcherid.com> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "ResearcherID is an identifying system for scientific authors."@en;
   skos:inScheme scheme:;
   skos:prefLabel "ResearcherID"@en .
 
-<https://www.linkedin.com/> a skos:Concept;
+<https://www.linkedin.com> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "The LinkedIn ID is a permanent number assigned to person's LinkedIn profile."@en;
   skos:inScheme scheme:;
@@ -2288,13 +2288,13 @@ gdmt:IdentifierScheme a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "ROR"@en .
 
-<https://www.grid.ac/> a skos:Concept;
+<https://www.grid.ac> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "GRID (Global Research Identifier Database) is a free and openly available global database of research-related organisations, cataloging research-related organisations and providing each with a unique and persistent identifier."@en;
   skos:inScheme scheme:;
   skos:prefLabel "GRID"@en .
 
-<https://isni.org/> a skos:Concept;
+<https://isni.org> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "ISNI (International Standard Name Identifier) is an ISO standard, in use by numerous libraries, publishers, databases, and rights management organizations around the world. It is used to uniquely identify persons and organizations involved in creative activities, as well as public personas of both, such as pseudonyms, stage names, record labels or publishing imprints."@en;
   skos:exactMatch <https://isni.org/page/what-is-isni/>;
