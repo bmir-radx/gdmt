@@ -2254,7 +2254,7 @@ gdmt:IdentifierScheme a skos:Concept;
   skos:definition "Identifier scheme used for identifying person, organization, system, physical or digital object."@en;
   skos:inScheme scheme:;
   skos:narrower <http://www.researcherid.com/>, <https://isni.org/>, <https://orcid.org/>,
-    <https://ror.org/>, <https://www.grid.ac/>, <https://www.linkedin.com/>, <https://www.scopus.com/>;
+    <https://ror.org>, <https://www.grid.ac/>, <https://www.linkedin.com/>, <https://www.scopus.com/>;
   skos:prefLabel "Identifier Scheme"@en;
   skos:topConceptOf scheme: .
 
@@ -2282,7 +2282,7 @@ gdmt:IdentifierScheme a skos:Concept;
   skos:inScheme scheme:;
   skos:prefLabel "LinkedIn ID"@en .
 
-<https://ror.org/> a skos:Concept;
+<https://ror.org> a skos:Concept;
   skos:broader gdmt:IdentifierScheme;
   skos:definition "ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world."@en;
   skos:inScheme scheme:;
