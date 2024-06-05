@@ -8011,14 +8011,6 @@ fdc:zlibacknowledgement rdf:type owl:Class ;
                                                 owl:deprecated "true"^^xsd:boolean .
 
 
-###  https://isni.org
-<https://isni.org> rdf:type owl:Class ;
-                   rdfs:subClassOf gdmt:IdentifierScheme ;
-                   skos:definition "ISNI (International Standard Name Identifier) is an ISO standard, in use by numerous libraries, publishers, databases, and rights management organizations around the world. It is used to uniquely identify persons and organizations involved in creative activities, as well as public personas of both, such as pseudonyms, stage names, record labels or publishing imprints."@en ;
-                   skos:exactMatch <https://isni.org/page/what-is-isni/> ;
-                   skos:prefLabel "ISNI"@en .
-
-
 ###  https://ror.org
 <https://ror.org> rdf:type owl:Class ;
                   rdfs:subClassOf gdmt:IdentifierScheme ;
@@ -10093,6 +10085,15 @@ gdmt:ISC rdf:type owl:Class ;
          skos:exactMatch fdc:ISC ,
                          <https://spdx.org/licenses/ISC> ;
          skos:prefLabel "ISC"@en .
+
+
+###  https://w3id.org/gdmt/ISNI
+gdmt:ISNI rdf:type owl:Class ;
+          rdfs:subClassOf gdmt:IdentifierScheme ;
+          rdfs:seeAlso gdmt:ISNI ;
+          skos:definition "ISNI (International Standard Name Identifier) is an ISO standard, in use by numerous libraries, publishers, databases, and rights management organizations around the world. It is used to uniquely identify persons and organizations involved in creative activities, as well as public personas of both, such as pseudonyms, stage names, record labels or publishing imprints."@en ;
+          skos:exactMatch <https://isni.org/page/what-is-isni/> ;
+          skos:prefLabel "ISNI"@en .
 
 
 ###  https://w3id.org/gdmt/ISSN
