@@ -1084,13 +1084,6 @@ gdmt:hasWestBoundLongitude rdf:type owl:DatatypeProperty ;
 #    Classes
 #################################################################
 
-###  http://www.researcherid.com
-<http://www.researcherid.com> rdf:type owl:Class ;
-                              rdfs:subClassOf gdmt:IdentifierScheme ;
-                              skos:definition "ResearcherID is an identifying system for scientific authors."@en ;
-                              skos:prefLabel "ResearcherID"@en .
-
-
 ###  http://fairdatacollective.org/gdmt/application-epub+zip
 <http://fairdatacollective.org/gdmt/application-epub+zip> rdf:type owl:Class ;
                                                           rdfs:subClassOf fdc:Deprecated ;
@@ -8011,13 +8004,6 @@ fdc:zlibacknowledgement rdf:type owl:Class ;
                                                 owl:deprecated "true"^^xsd:boolean .
 
 
-###  https://www.scopus.com
-<https://www.scopus.com> rdf:type owl:Class ;
-                         rdfs:subClassOf gdmt:IdentifierScheme ;
-                         skos:definition "The Scopus author identifier distinguishes authors among themselves by assigning a unique number to each author."@en ;
-                         skos:prefLabel "Scopus"@en .
-
-
 ###  https://spdx.org/licenses/
 <https://spdx.org/licenses/> rdf:type owl:Class ;
                              rdfs:subClassOf gdmt:LicenseIdentifierScheme ;
@@ -11810,6 +11796,14 @@ gdmt:Researcher rdf:type owl:Class ;
                 skos:prefLabel "Researcher"@en .
 
 
+###  https://w3id.org/gdmt/ResearcherId
+gdmt:ResearcherId rdf:type owl:Class ;
+                  rdfs:subClassOf gdmt:IdentifierScheme ;
+                  rdfs:seeAlso gdmt:ResearcherId ;
+                  skos:definition "ResearcherID is an identifying system for scientific authors."@en ;
+                  skos:prefLabel "ResearcherID"@en .
+
+
 ###  https://w3id.org/gdmt/ResourceCreatorType
 gdmt:ResourceCreatorType rdf:type owl:Class ;
                          skos:definition "Types of creator responsiple for the ressource creation."@en ;
@@ -12011,6 +12005,14 @@ gdmt:Saxpath rdf:type owl:Class ;
              skos:exactMatch fdc:Saxpath ,
                              <https://spdx.org/licenses/Saxpath> ;
              skos:prefLabel "Saxpath"@en .
+
+
+###  https://w3id.org/gdmt/Scopus
+gdmt:Scopus rdf:type owl:Class ;
+            rdfs:subClassOf gdmt:IdentifierScheme ;
+            rdfs:seeAlso gdmt:Scopus ;
+            skos:definition "The Scopus author identifier distinguishes authors among themselves by assigning a unique number to each author."@en ;
+            skos:prefLabel "Scopus"@en .
 
 
 ###  https://w3id.org/gdmt/Sendmail
