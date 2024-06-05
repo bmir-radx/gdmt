@@ -8011,13 +8011,6 @@ fdc:zlibacknowledgement rdf:type owl:Class ;
                                                 owl:deprecated "true"^^xsd:boolean .
 
 
-###  https://www.grid.ac
-<https://www.grid.ac> rdf:type owl:Class ;
-                      rdfs:subClassOf gdmt:IdentifierScheme ;
-                      skos:definition "GRID (Global Research Identifier Database) is a free and openly available global database of research-related organisations, cataloging research-related organisations and providing each with a unique and persistent identifier."@en ;
-                      skos:prefLabel "GRID"@en .
-
-
 ###  https://www.linkedin.com
 <https://www.linkedin.com> rdf:type owl:Class ;
                            rdfs:subClassOf gdmt:IdentifierScheme ;
@@ -9888,6 +9881,14 @@ gdmt:GPL3.0orlater rdf:type owl:Class ;
                    skos:exactMatch fdc:GPL3.0orlater ,
                                    <https://spdx.org/licenses/GPL-3.0-or-later> ;
                    skos:prefLabel "GPL-3.0-or-later"@en .
+
+
+###  https://w3id.org/gdmt/GRID
+gdmt:GRID rdf:type owl:Class ;
+          rdfs:subClassOf gdmt:IdentifierScheme ;
+          rdfs:seeAlso gdmt:GRID ;
+          skos:definition "GRID (Global Research Identifier Database) is a free and openly available global database of research-related organisations, cataloging research-related organisations and providing each with a unique and persistent identifier."@en ;
+          skos:prefLabel "GRID"@en .
 
 
 ###  https://w3id.org/gdmt/Giftware
