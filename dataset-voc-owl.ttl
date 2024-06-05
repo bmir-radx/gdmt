@@ -8011,13 +8011,6 @@ fdc:zlibacknowledgement rdf:type owl:Class ;
                                                 owl:deprecated "true"^^xsd:boolean .
 
 
-###  https://ror.org
-<https://ror.org> rdf:type owl:Class ;
-                  rdfs:subClassOf gdmt:IdentifierScheme ;
-                  skos:definition "ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world."@en ;
-                  skos:prefLabel "ROR"@en .
-
-
 ###  https://www.grid.ac
 <https://www.grid.ac> rdf:type owl:Class ;
                       rdfs:subClassOf gdmt:IdentifierScheme ;
@@ -15925,6 +15918,14 @@ gdmt:zlibacknowledgement rdf:type owl:Class ;
                              skos:exactMatch <http://vocab.fairdatacollective.org/gdmt/0BSD> ,
                                              <https://spdx.org/licenses/0BSD> ;
                              skos:prefLabel "0BSD"@en .
+
+
+###  https://w3id.org/gdmt/ORCiD/ROR
+<https://w3id.org/gdmt/ORCiD/ROR> rdf:type owl:Class ;
+                                  rdfs:subClassOf gdmt:IdentifierScheme ;
+                                  rdfs:seeAlso <https://w3id.org/gdmt/ORCiD/ROR> ;
+                                  skos:definition "ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world."@en ;
+                                  skos:prefLabel "ROR"@en .
 
 
 ###  https://w3id.org/gdmt/application-epub+zip
