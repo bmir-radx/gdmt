@@ -8011,13 +8011,6 @@ fdc:zlibacknowledgement rdf:type owl:Class ;
                                                 owl:deprecated "true"^^xsd:boolean .
 
 
-###  https://www.linkedin.com
-<https://www.linkedin.com> rdf:type owl:Class ;
-                           rdfs:subClassOf gdmt:IdentifierScheme ;
-                           skos:definition "The LinkedIn ID is a permanent number assigned to person's LinkedIn profile."@en ;
-                           skos:prefLabel "LinkedIn ID"@en .
-
-
 ###  https://www.scopus.com
 <https://www.scopus.com> rdf:type owl:Class ;
                          rdfs:subClassOf gdmt:IdentifierScheme ;
@@ -10623,6 +10616,14 @@ gdmt:LicenseIdentifierScheme rdf:type owl:Class ;
                              skos:exactMatch fdc:LicenseIdentifierScheme ;
                              skos:prefLabel "License Identifier Scheme"@en ;
                              skos:topConceptOf <https://w3id.org/gdmt/> .
+
+
+###  https://w3id.org/gdmt/LinkedIn
+gdmt:LinkedIn rdf:type owl:Class ;
+              rdfs:subClassOf gdmt:IdentifierScheme ;
+              rdfs:seeAlso <https://www.linkedin.com> ;
+              skos:definition "The LinkedIn ID is a permanent number assigned to person's LinkedIn profile."@en ;
+              skos:prefLabel "LinkedIn ID"@en .
 
 
 ###  https://w3id.org/gdmt/LinuxOpenIB
