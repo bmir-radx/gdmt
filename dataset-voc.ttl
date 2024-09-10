@@ -1130,14 +1130,14 @@ gdmt:PI a skos:Concept;
 	"""@en;
   skos:inScheme scheme:;
   skos:prefLabel "PI"@en;
-  skos:altLabel "Principal Investigator".
+  skos:altLabel "Principal Investigator"@en.
 
 gdmt:DataPI a skos:Concept;
   skos:broader gdmt:PI;
   skos:definition "Person who is a Principal Investigator for a project and who is responsible for Data management in the project."@en;
   skos:inScheme scheme:;
   skos:prefLabel "Data PI"@en;
-  skos:altLabel "Data Principal Investigator".
+  skos:altLabel "Data Principal Investigator"@en.
 
 
 
@@ -1147,7 +1147,7 @@ gdmt:ContactPI a skos:Concept;
   skos:definition "Person who is a Principal Investigator for a project and who should be contacted for further information about the project."@en;
   skos:inScheme scheme:;
   skos:prefLabel "Contact PI"@en;
-  skos:altLabel "Contact Principal Investigator".
+  skos:altLabel "Contact Principal Investigator"@en.
 
 fdc:Deprecated skos:narrower fdc:ProjectManager .
 fdc:ProjectManager a skos:Concept;
